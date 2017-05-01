@@ -59,7 +59,7 @@ import org.jis.view.dialog.OptionsEdit;
  * The Main Class is the Entry Point of the Application and build the GUI
  * </p>
  */
-public final class Main extends JFrame {
+public class Main extends JFrame {
   private static final long serialVersionUID = 5124271743719044219L;
 
   private Options           o;
