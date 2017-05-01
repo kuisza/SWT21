@@ -1,0 +1,393 @@
+2017-04-29 01:12:12,328 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-04-29 01:19:24,206 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-04-29 01:21:55,304 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 01:21:59,037 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-04-29 01:21:59,037 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 01:21:59,178 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-04-29 02:36:58,192 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 02:37:02,315 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-04-29 02:37:02,316 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 02:42:45,201 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:jmjrst.main:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 02:43:16,533 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 02:43:26,567 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 02:43:29,979 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-04-29 02:43:29,979 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 02:43:30,110 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-04-29 02:43:30,114 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 02:57:34,734 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-04-29 02:57:34,734 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 03:51:25,160 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 03:51:28,355 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 03:51:28,378 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 04:05:12,405 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.pom
+2017-04-29 04:05:12,484 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.pom
+2017-04-29 04:05:12,874 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.pom
+2017-04-29 04:05:12,968 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.pom
+2017-04-29 04:05:13,106 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.3/plexus-archiver-3.3.pom
+2017-04-29 04:05:13,184 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.3/plexus-archiver-3.3.pom
+2017-04-29 04:05:13,222 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.pom
+2017-04-29 04:05:13,269 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.pom
+2017-04-29 04:05:13,306 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.pom
+2017-04-29 04:05:13,369 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.pom
+2017-04-29 04:05:13,407 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.pom
+2017-04-29 04:05:13,487 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.pom
+2017-04-29 04:05:13,584 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.pom
+2017-04-29 04:05:13,619 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.pom
+2017-04-29 04:05:13,671 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.pom
+2017-04-29 04:05:13,706 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.pom
+2017-04-29 04:05:13,738 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.pom
+2017-04-29 04:05:13,807 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.pom
+2017-04-29 04:05:13,870 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.jar
+2017-04-29 04:05:14,086 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.jar
+2017-04-29 04:05:14,107 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.jar
+2017-04-29 04:05:14,323 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.jar
+2017-04-29 04:05:14,338 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.jar
+2017-04-29 04:05:14,607 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.jar
+2017-04-29 04:05:14,623 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.jar
+2017-04-29 04:05:14,769 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.jar
+2017-04-29 04:05:14,807 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.jar
+2017-04-29 04:05:15,138 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.jar
+2017-04-29 04:05:15,153 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar
+2017-04-29 04:05:15,238 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar
+2017-04-29 04:05:15,269 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.jar
+2017-04-29 04:05:15,385 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.jar
+2017-04-29 04:05:15,406 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar
+2017-04-29 04:05:15,585 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar
+2017-04-29 04:08:36,866 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 04:08:40,736 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 04:08:40,752 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 04:08:40,868 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 04:11:02,863 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 04:11:02,879 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 04:13:42,066 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 04:13:45,351 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 04:13:45,367 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 04:13:45,467 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 04:14:02,468 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 04:14:05,570 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 04:14:05,586 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 04:14:05,686 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 21:35:43,534 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-04-29 21:36:08,827 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 21:36:09,212 [Worker-9] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-04-29 21:36:10,098 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-04-29 21:36:10,098 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 21:39:29,517 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 21:39:29,518 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 21:39:56,767 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 21:39:56,768 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 21:44:50,128 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 21:44:53,154 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 21:44:53,154 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 21:44:53,293 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 21:51:22,491 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 21:51:22,491 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 21:51:22,641 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 22:01:41,145 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 22:01:44,800 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 22:01:44,800 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 22:01:44,945 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 22:03:47,261 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 22:03:52,920 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 22:03:52,930 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 22:03:53,071 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 22:04:58,821 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 22:05:01,793 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 22:05:01,802 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 22:08:23,193 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-04-29 22:10:46,824 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-04-29 22:12:36,167 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 22:12:40,374 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 22:12:40,375 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 22:12:40,812 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 22:13:37,635 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 22:13:40,374 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 22:13:40,374 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 22:13:40,506 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 22:14:12,971 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 22:14:12,971 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 22:15:06,828 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 22:15:10,095 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 22:15:10,095 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 22:15:10,262 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 22:15:52,731 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 22:15:55,891 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 22:15:55,891 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 22:15:56,020 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 22:16:55,403 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 22:16:58,401 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 22:16:58,431 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 22:16:58,541 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 22:19:16,763 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-29 22:19:20,097 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 22:19:20,116 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 22:19:20,248 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-29 23:58:20,910 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-29 23:58:20,910 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-29 23:58:21,254 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-30 00:04:00,916 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 00:04:00,916 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-30 00:04:01,075 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-30 00:22:06,676 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 00:22:06,692 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-30 00:22:06,790 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-30 00:22:44,073 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 00:22:44,073 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-04-30 00:23:08,060 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 00:23:08,060 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-04-30 00:23:08,182 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-30 00:26:13,796 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-04-30 00:26:13,796 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-04-30 00:27:23,221 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-30 00:27:25,791 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-04-30 00:27:25,803 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-30 00:27:25,966 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-04-30 00:27:25,969 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-30 00:27:42,406 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-30 00:27:45,139 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-04-30 00:27:45,150 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-30 00:27:45,272 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-04-30 00:27:45,287 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-30 00:29:27,004 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-30 00:29:27,085 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-04-30 00:29:27,097 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-30 00:29:27,171 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-04-30 00:29:38,401 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-30 00:29:38,438 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-30 00:29:38,474 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-04-30 00:33:24,610 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 00:33:24,616 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-04-30 00:33:31,125 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-30 00:33:33,778 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 00:33:33,784 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-30 00:36:10,842 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-30 00:36:10,915 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-04-30 00:36:10,923 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-30 00:36:10,969 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-04-30 00:40:00,370 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-30 00:40:00,436 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-04-30 00:40:00,437 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-04-30 00:40:00,475 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-04-30 00:41:17,240 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 00:41:17,240 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-30 02:12:38,334 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 02:12:38,335 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-30 02:14:08,140 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 02:14:08,144 [Worker-70] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-30 02:14:23,065 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 02:14:23,071 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-30 02:16:15,366 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 02:16:15,370 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-30 02:27:26,091 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 02:27:26,097 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-04-30 02:36:12,196 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-04-30 02:36:12,202 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 09:12:54,326 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-01 09:50:31,485 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 09:50:37,826 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 09:50:37,827 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 09:50:38,170 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 10:06:22,435 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 10:07:27,246 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 10:07:27,246 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 10:14:50,978 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 10:14:53,327 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 10:14:53,328 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 10:14:53,518 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 10:14:53,593 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.jar
+2017-05-01 10:14:53,593 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.jar
+2017-05-01 10:14:54,205 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.jar
+2017-05-01 10:14:54,387 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.jar
+2017-05-01 10:14:55,610 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.jar
+2017-05-01 10:14:55,803 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.jar
+2017-05-01 10:18:37,682 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 10:18:41,180 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 10:18:41,196 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 10:18:41,301 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 10:19:20,441 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 10:19:23,400 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 10:19:23,412 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B pakcage
+2017-05-01 10:19:23,569 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 10:20:09,850 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 10:20:16,664 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 10:20:16,679 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 10:20:16,840 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 12:50:40,809 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 12:50:43,160 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 12:50:43,176 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 12:50:46,156 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 12:50:46,580 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 12:50:46,590 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 12:50:46,598 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 12:50:46,611 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 12:51:06,513 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 12:51:08,949 [Worker-60] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 12:51:08,959 [Worker-60] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 12:51:09,463 [Worker-65] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 12:51:09,647 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 12:51:09,649 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 12:51:09,667 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 12:51:09,667 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 12:51:17,081 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 12:51:20,317 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 12:51:20,332 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 12:51:20,446 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 14:33:34,695 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 14:33:38,271 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 14:33:38,281 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 14:33:38,406 [Worker-65] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 14:33:46,677 [Worker-79] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 14:33:46,677 [Worker-79] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-05-01 14:34:30,954 [Worker-79] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 14:34:31,062 [Worker-79] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-01 14:34:52,802 [Worker-81] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 14:34:52,864 [Worker-81] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-01 14:35:05,215 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 14:35:08,680 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 14:35:08,778 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-01 14:35:12,316 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 14:35:12,931 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 14:35:12,941 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 14:35:13,053 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 14:35:13,054 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 14:36:02,310 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 14:36:05,878 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 14:36:05,889 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-01 14:36:06,032 [Worker-80] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 14:36:28,608 [Worker-76] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 14:36:28,608 [Worker-76] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B build
+2017-05-01 14:39:25,543 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 14:39:28,795 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 14:39:28,802 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-01 14:39:58,870 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 14:40:01,930 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 14:40:01,938 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-01 14:41:32,380 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 14:41:32,380 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-01 14:41:32,874 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 14:41:33,183 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 14:41:33,193 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 14:41:33,240 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 14:41:33,249 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 14:42:18,918 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 14:42:19,003 [Worker-80] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 14:44:22,460 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 14:44:22,467 [Worker-83] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 14:44:22,585 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 14:44:22,598 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 14:44:22,599 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 14:44:22,606 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 16:11:56,725 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-05-01 16:12:34,249 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 16:12:34,254 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 16:12:34,262 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 16:12:34,262 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 16:13:14,476 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-01 16:13:14,788 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-01 16:13:16,063 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 16:13:16,893 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/main/java
+2017-05-01 16:13:16,894 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/main/resources
+2017-05-01 16:13:16,906 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/test/java
+2017-05-01 16:13:16,906 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/test/resources
+2017-05-01 16:13:17,651 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-05-01 16:13:19,500 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 16:13:19,501 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 16:13:19,627 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 16:13:19,632 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 16:13:24,687 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 16:13:27,660 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 16:13:27,661 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 16:13:28,258 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 16:13:28,992 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 16:13:29,061 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 16:13:29,071 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 16:13:29,079 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 17:23:55,527 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 17:23:55,528 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 17:23:55,531 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 17:23:55,584 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 17:27:09,254 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-01 17:27:11,584 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 17:27:11,591 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 17:28:33,226 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-01 17:28:33,353 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-01 17:28:33,754 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 17:28:34,196 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/main/java
+2017-05-01 17:28:34,203 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/main/resources
+2017-05-01 17:28:34,209 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/test/java
+2017-05-01 17:28:34,228 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/test/resources
+2017-05-01 17:28:34,410 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-05-01 17:28:35,167 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 17:28:35,168 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 17:28:35,211 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 17:28:35,212 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 17:33:32,410 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 17:33:32,415 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 22:32:33,165 [Worker-119] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-01 22:32:33,283 [Worker-119] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-01 22:32:34,927 [Worker-119] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a1:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-01 22:32:35,272 [Worker-119] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/main/java
+2017-05-01 22:32:35,278 [Worker-119] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/main/resources
+2017-05-01 22:32:35,284 [Worker-119] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/test/java
+2017-05-01 22:32:35,289 [Worker-119] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/test/resources
+2017-05-01 22:32:35,396 [Worker-119] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-05-01 22:32:36,138 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:32:36,139 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 22:32:36,187 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:32:36,193 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:32:45,163 [Worker-120] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 22:32:45,164 [Worker-120] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 22:33:20,480 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:33:20,490 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 22:33:20,497 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:33:20,498 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:33:22,039 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:33:22,040 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:33:22,042 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:33:22,043 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:33:39,295 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:33:39,303 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 22:33:39,311 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:33:39,311 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:34:04,702 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:34:04,704 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 22:34:04,706 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:34:04,706 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:35:02,710 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:02,715 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 22:35:02,725 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:02,725 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:35:16,060 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:16,062 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 22:35:16,066 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:16,066 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:35:29,327 [Worker-124] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-01 22:35:29,334 [Worker-124] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-01 22:35:29,493 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:29,495 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 22:35:29,506 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:29,506 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:35:42,409 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:42,411 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 22:35:42,422 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:42,428 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:35:43,510 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:43,511 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:35:43,528 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:43,543 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:35:45,630 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:45,631 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 22:35:45,637 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:45,641 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:35:50,971 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:50,972 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 22:35:50,980 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:35:50,985 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:36:16,353 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:36:16,355 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 22:36:16,363 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:36:16,371 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:37:13,067 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:37:13,070 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-01 22:37:13,078 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:37:13,084 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
