@@ -1,0 +1,25 @@
+<changelog><commit>
+					<time>1493671682</time>
+					<sha1>a1e87eae59a9c5f23445e15689496ea21254a669</sha1>
+					<author>kuisza</author>
+					<branches>refs/heads/master,refs/heads/RotateImageTest</branches>
+					<msg>I added a Javadoc comment in line 69</msg>
+				</commit><commit>
+					<time>1493671283</time>
+					<sha1>8b845ed9ab59c3571bec6e59d617bedfdec52c0d</sha1>
+					<author>kuisza</author>
+					<branches>refs/heads/master,refs/heads/RotateImageTest</branches>
+					<msg>2nd change: class get declared as final</msg>
+				</commit><commit>
+					<time>1493671158</time>
+					<sha1>ecd69d977b9b3fa4c0b914e2d028ee04e0eb2fc9</sha1>
+					<author>kuisza</author>
+					<branches>refs/heads/master,refs/heads/RotateImageTest</branches>
+					<msg>1st change: add braces to if statement in class Main in line 238</msg>
+				</commit><commit>
+					<time>1493426205</time>
+					<sha1>90ea558cb109f74387ad5615a876ebb2e77bbc21</sha1>
+					<author>kuisza</author>
+					<branches>refs/heads/master,refs/heads/RotateImageTest</branches>
+					<msg>new header</msg>
+				</commit></changelog>
