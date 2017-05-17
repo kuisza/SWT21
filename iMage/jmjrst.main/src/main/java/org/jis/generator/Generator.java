@@ -310,7 +310,7 @@ public class Generator {
    *          int, width of the scaled image
    * @param height
    *          int, heigth of the scaled image
-   * @return File
+   * @return File6
    * @throws IOException
    * @throws ImageFormatException
    */
@@ -547,7 +547,7 @@ public class Generator {
   public void generateSingle(File file, BufferedImage image)
   {
 
-    // where shuld the image saved?
+    // where should the image saved?
     JOptionPane.showMessageDialog(null, m.mes.getString("Generator.15"));
 
     // select the output image

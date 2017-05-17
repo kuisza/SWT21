@@ -10,4 +10,14 @@
 <fullyQualifiedTypeName name="javax.imageio.ImageReader"/>
 <fullyQualifiedTypeName name="javax.imageio.ImageReadParam"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.junit.After"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.awt.image.DataBufferByte"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.util.zip.ZipInputStream"/>
+<fullyQualifiedTypeName name="java.util.zip.ZipEntry"/>
+<fullyQualifiedTypeName name="org.jis.Main"/>
 </qualifiedTypeNameHistroy>

@@ -795,3 +795,1258 @@ Caused by: java.net.SocketException: Connection reset
 2017-05-03 01:13:57,146 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-05-03 01:13:57,153 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-05-03 01:13:57,153 [Worker-358] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-03 01:15:04,177 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-03 01:15:06,893 [Worker-371] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-03 01:15:06,893 [Worker-371] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-03 01:15:07,078 [Worker-372] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-03 01:15:07,078 [Worker-372] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-03 01:15:07,093 [Worker-372] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-03 01:15:07,093 [Worker-372] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-03 10:34:57,927 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-03 10:34:57,943 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-03 10:34:57,943 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-03 10:34:57,958 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-03 10:37:15,888 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-03 10:37:15,888 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-03 10:37:15,904 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-03 10:37:15,909 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-03 11:00:35,607 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-04 10:30:30,915 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:30:30,936 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-04 10:30:30,952 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:30:30,967 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 10:33:42,969 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:33:42,969 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 10:33:42,969 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:33:43,001 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 10:34:29,729 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:34:29,729 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 10:34:29,729 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:34:29,729 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 10:35:05,180 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:35:05,180 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 10:35:05,180 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:35:05,264 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 10:46:56,229 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:46:56,230 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 10:46:56,230 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:46:56,237 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 10:48:51,006 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:48:51,013 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 10:48:51,019 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:48:51,025 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-05-04 10:49:23,558 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:49:23,559 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 10:49:23,560 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 10:49:23,567 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-05-04 11:40:09,167 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:40:09,167 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 11:40:09,252 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:40:09,267 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-04 11:41:23,286 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:41:23,286 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 11:41:23,286 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:41:23,302 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-04 11:42:59,227 [Worker-170] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-04 11:42:59,328 [Worker-170] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-04 11:45:13,487 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:45:13,605 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 11:45:13,621 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:45:13,636 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-04 11:46:04,713 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:46:04,718 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 11:46:04,723 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:46:04,728 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-04 11:46:16,720 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:46:16,724 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 11:46:16,724 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:46:16,724 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-04 11:46:44,083 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:46:44,083 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 11:46:44,099 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:46:44,099 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-04 11:48:59,756 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:48:59,756 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 11:48:59,772 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 11:48:59,772 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-04 11:49:15,159 [Worker-167] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-04 11:49:15,164 [Worker-167] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-04 12:00:29,714 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:00:29,721 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:00:29,729 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:00:29,729 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 12:06:19,112 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:06:19,112 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:06:19,112 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:06:19,112 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 12:07:39,244 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:07:39,244 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:07:39,244 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:07:39,260 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 12:08:03,338 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:08:03,338 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:08:03,338 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:08:03,338 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 12:09:13,936 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:09:13,941 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:09:13,947 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:09:13,952 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 12:09:50,423 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:09:50,438 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:09:50,438 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:09:50,438 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 12:10:30,802 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:10:30,817 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:10:30,817 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:10:30,817 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 12:15:01,717 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:15:01,717 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:15:01,718 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:15:01,723 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 12:16:14,136 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:16:14,152 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:16:14,152 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:16:14,152 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 12:17:07,694 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:17:07,694 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:17:07,694 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:17:07,709 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 12:22:50,606 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:22:50,611 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:22:50,616 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:22:50,620 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-04 12:23:21,425 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:23:21,425 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:23:21,425 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:23:21,425 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-04 12:23:36,982 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:23:36,982 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:23:36,982 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:23:36,998 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-04 12:36:33,574 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:36:33,574 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 12:36:33,574 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 12:36:33,574 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-04 13:41:27,449 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:41:27,534 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:41:27,534 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:41:27,549 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:43:10,911 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:43:10,911 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:43:10,911 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:43:10,927 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:44:49,967 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:44:49,972 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:44:49,980 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:44:49,986 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:46:04,854 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:46:04,854 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:46:04,854 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:46:04,869 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:46:41,235 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:46:41,235 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:46:41,250 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:46:41,250 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:47:12,373 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:47:12,373 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:47:12,373 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:47:12,373 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:47:44,114 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:47:44,114 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:47:44,131 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:47:44,136 [Worker-197] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:47:58,514 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:47:58,514 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:47:58,514 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:47:58,514 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:52:51,973 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:52:51,976 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:52:51,976 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:52:51,992 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:53:14,037 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:53:14,037 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:53:14,037 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:53:14,037 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:56:31,107 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:56:31,107 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:56:31,132 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:56:31,142 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:56:51,450 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:56:51,450 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:56:51,450 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:56:51,466 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:57:34,703 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:57:34,703 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:57:34,719 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:57:34,719 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:58:09,763 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:58:09,763 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:58:09,763 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:58:09,781 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:58:32,032 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:58:32,048 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:58:32,048 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:58:32,063 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 13:59:24,816 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:59:24,816 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 13:59:24,817 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 13:59:24,820 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-04 14:01:18,921 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:01:18,923 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 14:01:18,923 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:01:18,938 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-04 14:01:33,930 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:01:33,930 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 14:01:33,930 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:01:33,947 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-04 14:03:44,515 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:03:44,523 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 14:03:44,533 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:03:44,542 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-04 14:04:30,356 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:04:30,356 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 14:04:30,356 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:04:30,372 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-04 14:08:20,909 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:08:20,918 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 14:08:20,929 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:08:20,937 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-04 14:09:36,201 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:09:36,201 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 14:09:36,201 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:09:36,292 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-04 14:10:40,216 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:10:40,301 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-04 14:10:40,310 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-04 14:10:40,319 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 11:27:45,379 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-05 11:29:33,097 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:29:33,117 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-05 11:29:33,189 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:29:33,190 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-05 11:31:06,560 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:31:06,562 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 11:31:06,563 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:31:06,615 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 11:33:03,340 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:33:03,341 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 11:33:03,342 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:33:03,343 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 11:37:22,231 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:37:22,232 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 11:37:22,233 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:37:22,321 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 11:41:05,087 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:41:05,088 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 11:41:05,089 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:41:05,095 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 11:42:31,676 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:42:31,680 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 11:42:31,686 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:42:31,691 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 11:47:43,782 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:47:43,783 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 11:47:43,784 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 11:47:43,790 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 12:14:33,577 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:14:33,578 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 12:14:33,685 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:14:33,691 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 12:14:55,874 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:14:55,884 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-05 12:14:55,895 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:14:55,896 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-05 12:14:58,105 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-05-05 12:18:52,303 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:18:52,307 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 12:18:52,308 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 12:18:52,311 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 13:21:02,866 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 13:21:02,866 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 13:21:02,866 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 13:21:02,866 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-05 13:31:57,408 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 13:31:57,408 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 13:31:57,408 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 13:31:57,477 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 13:35:00,092 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 13:35:00,092 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 13:35:00,092 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 13:35:00,092 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 13:36:34,761 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 13:36:34,777 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 13:36:34,777 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 13:36:34,777 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 13:37:35,255 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 13:37:35,256 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 13:37:35,256 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 13:37:35,262 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 13:42:33,422 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 13:42:33,422 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 13:42:33,422 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 13:42:33,438 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 14:17:54,507 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 14:17:54,507 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 14:17:54,507 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 14:17:54,507 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-05 14:44:02,077 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 14:44:02,077 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 14:44:02,077 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 14:44:02,077 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-05 14:45:14,876 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 14:45:14,876 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 14:45:14,876 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 14:45:14,876 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-05 14:53:06,145 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 14:53:06,161 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 14:53:06,161 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 14:53:06,176 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-05 14:59:56,635 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 14:59:56,636 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 14:59:56,636 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 14:59:56,643 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-05 15:06:36,757 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 15:06:36,757 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 15:06:36,757 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 15:06:36,773 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-05 15:08:30,124 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 15:08:30,124 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 15:08:30,125 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 15:08:30,130 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-05 15:10:06,743 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 15:10:06,743 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 15:10:06,743 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 15:10:06,759 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-05 15:10:26,131 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 15:10:26,131 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-05 15:10:26,131 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-05 15:10:26,131 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-06 11:50:53,370 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-06 11:53:52,866 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 11:53:52,872 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-06 11:53:53,047 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 11:53:53,049 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-06 11:54:39,311 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 11:54:39,313 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 11:54:39,314 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 11:54:39,331 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-06 12:23:17,852 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 12:23:17,852 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 12:23:17,854 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 12:23:17,855 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-06 12:24:24,923 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 12:24:24,924 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 12:24:24,924 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 12:24:24,930 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-06 12:25:27,984 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 12:25:27,985 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 12:25:27,986 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 12:25:27,991 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-06 12:25:44,648 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 12:25:44,653 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 12:25:44,657 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 12:25:44,662 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-06 12:29:56,171 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 12:29:56,171 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 12:29:56,172 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 12:29:56,179 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-06 13:01:42,876 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:01:42,878 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 13:01:42,883 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:01:42,887 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-06 13:25:43,180 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:25:43,181 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 13:25:43,182 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:25:43,187 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-06 13:26:06,067 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:26:06,071 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 13:26:06,076 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:26:06,081 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-06 13:26:23,472 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:26:23,472 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 13:26:23,473 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:26:23,481 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-06 13:30:14,123 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:30:14,128 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 13:30:14,132 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:30:14,137 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-06 13:37:35,159 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:37:35,160 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 13:37:35,161 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:37:35,167 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-06 13:40:15,142 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:40:15,146 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-06 13:40:15,151 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-06 13:40:15,156 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-06 22:43:33,471 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-05-07 00:21:14,293 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:21:14,299 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-07 00:21:14,355 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:21:14,356 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-05-07 00:23:50,134 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:23:50,136 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 00:23:50,138 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:23:50,171 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 00:27:05,915 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:27:05,915 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 00:27:05,917 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:27:05,918 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 00:28:14,432 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:28:14,432 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 00:28:14,433 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:28:14,439 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 00:29:30,028 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:29:30,029 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 00:29:30,030 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:29:30,034 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-07 00:36:09,775 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-07 00:36:15,765 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-05-07 00:36:15,771 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-07 00:36:15,959 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-07 00:36:16,274 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.pom
+2017-05-07 00:36:16,661 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.pom
+2017-05-07 00:36:16,720 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.pom
+2017-05-07 00:36:16,780 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar
+2017-05-07 00:36:16,810 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar
+2017-05-07 00:36:17,585 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar
+2017-05-07 00:36:27,834 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-07 00:36:30,299 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:36:30,308 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-07 00:36:30,673 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:36:30,675 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-07 00:37:54,436 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-07 00:37:57,027 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-05-07 00:37:57,033 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-07 00:37:57,346 [Worker-69] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-07 00:37:57,911 [Worker-69] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-07 00:37:59,059 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:37:59,079 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-07 00:37:59,141 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:37:59,155 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-07 00:38:27,774 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:38:27,774 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 00:38:27,775 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:38:27,782 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-07 00:38:39,747 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:38:39,752 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 00:38:39,757 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:38:39,763 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-07 00:38:54,215 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:38:54,215 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 00:38:54,217 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:38:54,229 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-07 00:42:36,079 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-07 00:42:36,085 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-07 00:43:55,129 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-07 00:43:57,915 [Worker-79] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-05-07 00:43:57,924 [Worker-79] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-07 00:43:57,975 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-07 00:43:58,366 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-07 00:43:59,301 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:43:59,304 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-07 00:43:59,351 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:43:59,358 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 00:44:15,407 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-05-07 00:44:15,408 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-07 00:45:12,579 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-05-07 00:45:12,579 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-07 00:45:12,673 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:45:12,678 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 00:45:12,684 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:45:12,685 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 00:59:25,737 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:59:25,737 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 00:59:25,737 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 00:59:25,737 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 01:03:56,050 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 01:03:56,051 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 01:03:56,059 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 01:03:56,067 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 02:47:29,872 [Worker-137] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-07 02:47:30,020 [Worker-137] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-all/2.0.2-beta/mockito-all-2.0.2-beta.pom
+2017-05-07 02:47:30,247 [Worker-137] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/2.0.2-beta/mockito-all-2.0.2-beta.pom
+2017-05-07 02:47:30,306 [Worker-137] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/2.0.2-beta/mockito-all-2.0.2-beta.pom
+2017-05-07 02:47:30,370 [Worker-137] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-all/2.0.2-beta/mockito-all-2.0.2-beta.jar
+2017-05-07 02:47:30,443 [Worker-137] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/2.0.2-beta/mockito-all-2.0.2-beta.jar
+2017-05-07 02:47:31,269 [Worker-137] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/2.0.2-beta/mockito-all-2.0.2-beta.jar
+2017-05-07 02:47:34,200 [Worker-137] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-07 02:47:35,863 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:47:35,870 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-07 02:47:35,998 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:47:36,000 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 02:47:38,169 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:47:38,170 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 02:47:38,175 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:47:38,180 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 02:47:55,574 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:47:55,574 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 02:47:55,575 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:47:55,576 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 02:48:12,952 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:48:12,958 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 02:48:12,965 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:48:12,966 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 02:48:35,251 [Worker-139] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-07 02:48:35,252 [Worker-139] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-07 02:49:20,172 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:49:20,173 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 02:49:20,181 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:49:20,190 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 02:50:29,601 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-07 02:50:32,329 [Worker-138] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-05-07 02:50:32,333 [Worker-138] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-07 02:50:32,399 [Worker-144] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-07 02:50:32,430 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-all/2.1.0-beta/mockito-all-2.1.0-beta.pom
+2017-05-07 02:50:32,721 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/2.1.0-beta/mockito-all-2.1.0-beta.pom
+2017-05-07 02:50:32,735 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mockito:mockito-all:jar:2.1.0-beta is missing, no dependency information available
+2017-05-07 02:50:32,805 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-all/2.1.0-beta/mockito-all-2.1.0-beta.jar
+2017-05-07 02:50:33,078 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/2.1.0-beta/mockito-all-2.1.0-beta.jar
+2017-05-07 02:50:33,479 [Worker-144] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-07 02:50:33,977 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mockito:mockito-all:jar:2.1.0-beta is missing, no dependency information available
+2017-05-07 02:50:34,121 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:50:34,123 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 02:50:34,125 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:50:34,133 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 02:51:59,734 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-core/2.1.0/mockito-core-2.1.0.pom
+2017-05-07 02:51:59,788 [Worker-147] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-07 02:51:59,961 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.1.0/mockito-core-2.1.0.pom
+2017-05-07 02:51:59,987 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.1.0/mockito-core-2.1.0.pom
+2017-05-07 02:52:00,034 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.1.0/mockito-core-2.1.0.pom
+2017-05-07 02:52:00,050 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.1.0/mockito-core-2.1.0.pom
+2017-05-07 02:52:00,077 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy/1.4.26/byte-buddy-1.4.26.pom
+2017-05-07 02:52:00,086 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy/1.4.26/byte-buddy-1.4.26.pom
+2017-05-07 02:52:00,114 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.4.26/byte-buddy-1.4.26.pom
+2017-05-07 02:52:00,126 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.4.26/byte-buddy-1.4.26.pom
+2017-05-07 02:52:00,212 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.4.26/byte-buddy-1.4.26.pom
+2017-05-07 02:52:00,221 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.4.26/byte-buddy-1.4.26.pom
+2017-05-07 02:52:00,254 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy-parent/1.4.26/byte-buddy-parent-1.4.26.pom
+2017-05-07 02:52:00,257 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy-parent/1.4.26/byte-buddy-parent-1.4.26.pom
+2017-05-07 02:52:00,297 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.4.26/byte-buddy-parent-1.4.26.pom
+2017-05-07 02:52:00,298 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.4.26/byte-buddy-parent-1.4.26.pom
+2017-05-07 02:52:00,405 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.4.26/byte-buddy-parent-1.4.26.pom
+2017-05-07 02:52:00,416 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.4.26/byte-buddy-parent-1.4.26.pom
+2017-05-07 02:52:00,438 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy-agent/1.4.26/byte-buddy-agent-1.4.26.pom
+2017-05-07 02:52:00,450 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy-agent/1.4.26/byte-buddy-agent-1.4.26.pom
+2017-05-07 02:52:00,473 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.4.26/byte-buddy-agent-1.4.26.pom
+2017-05-07 02:52:00,475 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.4.26/byte-buddy-agent-1.4.26.pom
+2017-05-07 02:52:00,531 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.4.26/byte-buddy-agent-1.4.26.pom
+2017-05-07 02:52:00,539 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.4.26/byte-buddy-agent-1.4.26.pom
+2017-05-07 02:52:00,575 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/objenesis/objenesis/2.4/objenesis-2.4.pom
+2017-05-07 02:52:00,575 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/objenesis/objenesis/2.4/objenesis-2.4.pom
+2017-05-07 02:52:00,606 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.4/objenesis-2.4.pom
+2017-05-07 02:52:00,608 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.4/objenesis-2.4.pom
+2017-05-07 02:52:00,673 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.4/objenesis-2.4.pom
+2017-05-07 02:52:00,685 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.4/objenesis-2.4.pom
+2017-05-07 02:52:00,727 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/objenesis/objenesis-parent/2.4/objenesis-parent-2.4.pom
+2017-05-07 02:52:00,753 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/objenesis/objenesis-parent/2.4/objenesis-parent-2.4.pom
+2017-05-07 02:52:00,780 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.4/objenesis-parent-2.4.pom
+2017-05-07 02:52:00,785 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.4/objenesis-parent-2.4.pom
+2017-05-07 02:52:00,839 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.4/objenesis-parent-2.4.pom
+2017-05-07 02:52:00,857 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.4/objenesis-parent-2.4.pom
+2017-05-07 02:52:00,887 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-core/2.1.0/mockito-core-2.1.0.jar
+2017-05-07 02:52:00,905 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy/1.4.26/byte-buddy-1.4.26.jar
+2017-05-07 02:52:00,921 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy-agent/1.4.26/byte-buddy-agent-1.4.26.jar
+2017-05-07 02:52:00,922 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-core/2.1.0/mockito-core-2.1.0.jar
+2017-05-07 02:52:00,958 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/objenesis/objenesis/2.4/objenesis-2.4.jar
+2017-05-07 02:52:00,960 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy/1.4.26/byte-buddy-1.4.26.jar
+2017-05-07 02:52:00,975 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy-agent/1.4.26/byte-buddy-agent-1.4.26.jar
+2017-05-07 02:52:00,994 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/objenesis/objenesis/2.4/objenesis-2.4.jar
+2017-05-07 02:52:01,007 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.1.0/mockito-core-2.1.0.jar
+2017-05-07 02:52:01,113 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.1.0/mockito-core-2.1.0.jar
+2017-05-07 02:52:01,907 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.1.0/mockito-core-2.1.0.jar
+2017-05-07 02:52:01,980 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.1.0/mockito-core-2.1.0.jar
+2017-05-07 02:52:01,989 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.4.26/byte-buddy-1.4.26.jar
+2017-05-07 02:52:02,017 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.4.26/byte-buddy-1.4.26.jar
+2017-05-07 02:52:04,198 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.4.26/byte-buddy-1.4.26.jar
+2017-05-07 02:52:04,254 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.4.26/byte-buddy-agent-1.4.26.jar
+2017-05-07 02:52:04,341 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.4.26/byte-buddy-1.4.26.jar
+2017-05-07 02:52:04,401 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.4.26/byte-buddy-agent-1.4.26.jar
+2017-05-07 02:52:04,427 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.4.26/byte-buddy-agent-1.4.26.jar
+2017-05-07 02:52:04,451 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.4/objenesis-2.4.jar
+2017-05-07 02:52:04,496 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.4/objenesis-2.4.jar
+2017-05-07 02:52:04,641 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.4.26/byte-buddy-agent-1.4.26.jar
+2017-05-07 02:52:04,670 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.4/objenesis-2.4.jar
+2017-05-07 02:52:04,744 [Worker-147] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.4/objenesis-2.4.jar
+2017-05-07 02:52:06,561 [Worker-147] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-07 02:52:07,284 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:52:07,286 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-07 02:52:07,326 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:52:07,327 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 02:54:42,171 [Worker-144] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-07 02:54:42,200 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22.pom
+2017-05-07 02:54:42,392 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22.pom
+2017-05-07 02:54:42,443 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22.pom
+2017-05-07 02:54:42,483 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11.pom
+2017-05-07 02:54:42,511 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11.pom
+2017-05-07 02:54:42,577 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11.pom
+2017-05-07 02:54:42,604 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy-parent/1.6.11/byte-buddy-parent-1.6.11.pom
+2017-05-07 02:54:42,651 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.6.11/byte-buddy-parent-1.6.11.pom
+2017-05-07 02:54:42,685 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.6.11/byte-buddy-parent-1.6.11.pom
+2017-05-07 02:54:42,712 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11.pom
+2017-05-07 02:54:42,761 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11.pom
+2017-05-07 02:54:42,790 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11.pom
+2017-05-07 02:54:42,816 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/objenesis/objenesis/2.5/objenesis-2.5.pom
+2017-05-07 02:54:42,858 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5/objenesis-2.5.pom
+2017-05-07 02:54:42,890 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5/objenesis-2.5.pom
+2017-05-07 02:54:42,915 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/objenesis/objenesis-parent/2.5/objenesis-parent-2.5.pom
+2017-05-07 02:54:42,962 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.5/objenesis-parent-2.5.pom
+2017-05-07 02:54:42,999 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.5/objenesis-parent-2.5.pom
+2017-05-07 02:54:43,035 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22.jar
+2017-05-07 02:54:43,059 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11.jar
+2017-05-07 02:54:43,071 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11.jar
+2017-05-07 02:54:43,095 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/objenesis/objenesis/2.5/objenesis-2.5.jar
+2017-05-07 02:54:43,148 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22.jar
+2017-05-07 02:54:43,551 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22.jar
+2017-05-07 02:54:43,581 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11.jar
+2017-05-07 02:54:45,036 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.6.11/byte-buddy-1.6.11.jar
+2017-05-07 02:54:45,062 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11.jar
+2017-05-07 02:54:45,208 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.6.11/byte-buddy-agent-1.6.11.jar
+2017-05-07 02:54:45,239 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5/objenesis-2.5.jar
+2017-05-07 02:54:45,292 [Worker-144] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5/objenesis-2.5.jar
+2017-05-07 02:54:46,520 [Worker-144] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-07 02:54:47,251 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:54:47,258 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-07 02:54:47,300 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 02:54:47,301 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 19:05:44,517 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-07 19:05:48,020 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2017-05-07 19:23:03,794 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-07 19:23:04,180 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-07 19:23:09,428 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-07 19:23:11,060 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/main/java
+2017-05-07 19:23:11,060 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/main/resources
+2017-05-07 19:23:11,060 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/test/java
+2017-05-07 19:23:11,060 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/test/resources
+2017-05-07 19:23:11,283 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2017-05-07 19:23:12,342 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 19:23:12,368 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-07 19:23:12,773 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 19:23:12,773 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 19:24:26,767 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-07 19:24:26,905 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-07 19:24:27,253 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-07 19:24:27,430 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/main/java
+2017-05-07 19:24:27,430 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/main/resources
+2017-05-07 19:24:27,431 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/test/java
+2017-05-07 19:24:27,435 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/test/resources
+2017-05-07 19:24:27,566 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-05-07 19:24:28,135 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 19:24:28,136 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-07 19:24:28,172 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 19:24:28,172 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 19:31:35,414 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-07 19:31:35,530 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-07 19:31:35,815 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-07 19:31:35,978 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/main/java
+2017-05-07 19:31:35,978 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/main/resources
+2017-05-07 19:31:35,978 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/test/java
+2017-05-07 19:31:35,996 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/test/resources
+2017-05-07 19:31:36,128 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-05-07 19:31:36,649 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 19:31:36,649 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-07 19:31:36,686 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 19:31:36,687 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 19:32:50,820 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 19:32:50,820 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 19:32:50,835 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 19:32:50,835 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 21:52:19,572 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 21:52:19,572 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 21:52:19,572 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 21:52:19,588 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-05-07 21:55:05,487 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 21:55:05,487 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 21:55:05,487 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 21:55:05,503 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 21:55:58,632 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 21:55:58,632 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 21:55:58,648 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 21:55:58,653 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 21:56:30,099 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 21:56:30,099 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 21:56:30,104 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 21:56:30,104 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 22:01:27,213 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:01:27,213 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 22:01:27,231 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:01:27,235 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 22:01:58,130 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:01:58,130 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 22:01:58,130 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:01:58,146 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 22:04:27,155 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:04:27,155 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 22:04:27,155 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:04:27,155 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 22:05:38,413 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:05:38,413 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 22:05:38,418 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:05:38,418 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 22:08:59,150 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:08:59,150 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 22:08:59,150 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:08:59,166 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 22:09:57,393 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:09:57,393 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 22:09:57,408 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:09:57,408 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 22:11:01,930 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:11:01,930 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 22:11:01,930 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:11:01,930 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 22:11:27,708 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:11:27,708 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 22:11:27,708 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:11:27,708 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 22:13:28,575 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:13:28,575 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 22:13:28,575 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:13:28,575 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-05-07 22:17:47,992 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:17:47,992 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 22:17:48,008 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:17:48,008 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-07 22:32:57,282 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:32:57,282 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 22:32:57,282 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 22:32:57,282 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-07 23:10:01,556 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:10:01,556 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-07 23:10:01,556 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:10:01,556 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 00:00:43,706 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:00:43,706 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 00:00:43,714 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:00:43,719 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 11:21:28,551 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-08 11:21:34,965 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:21:34,980 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 11:21:35,081 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:21:35,081 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 11:26:49,940 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:26:49,944 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 11:26:49,946 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:26:49,951 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 11:28:21,952 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:28:21,953 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 11:28:21,955 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:28:21,956 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 11:28:51,255 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:28:51,255 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 11:28:51,257 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:28:51,264 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 11:32:33,024 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:32:33,025 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 11:32:33,026 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:32:33,033 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 11:32:59,866 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-08 11:32:59,873 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-08 11:32:59,985 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-08 11:33:00,415 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-module-junit4/1.6.6/powermock-module-junit4-1.6.6.pom
+2017-05-08 11:33:00,541 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4/1.6.6/powermock-module-junit4-1.6.6.pom
+2017-05-08 11:33:00,592 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4/1.6.6/powermock-module-junit4-1.6.6.pom
+2017-05-08 11:33:00,665 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-modules/1.6.6/powermock-modules-1.6.6.pom
+2017-05-08 11:33:00,701 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-modules/1.6.6/powermock-modules-1.6.6.pom
+2017-05-08 11:33:00,741 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-modules/1.6.6/powermock-modules-1.6.6.pom
+2017-05-08 11:33:00,822 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock/1.6.6/powermock-1.6.6.pom
+2017-05-08 11:33:00,842 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock/1.6.6/powermock-1.6.6.pom
+2017-05-08 11:33:00,880 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock/1.6.6/powermock-1.6.6.pom
+2017-05-08 11:33:02,325 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-module-junit4-common/1.6.6/powermock-module-junit4-common-1.6.6.pom
+2017-05-08 11:33:02,359 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4-common/1.6.6/powermock-module-junit4-common-1.6.6.pom
+2017-05-08 11:33:02,560 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4-common/1.6.6/powermock-module-junit4-common-1.6.6.pom
+2017-05-08 11:33:02,624 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-core/1.6.6/powermock-core-1.6.6.pom
+2017-05-08 11:33:02,664 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-core/1.6.6/powermock-core-1.6.6.pom
+2017-05-08 11:33:02,711 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-core/1.6.6/powermock-core-1.6.6.pom
+2017-05-08 11:33:02,779 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-reflect/1.6.6/powermock-reflect-1.6.6.pom
+2017-05-08 11:33:02,852 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-reflect/1.6.6/powermock-reflect-1.6.6.pom
+2017-05-08 11:33:02,959 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-reflect/1.6.6/powermock-reflect-1.6.6.pom
+2017-05-08 11:33:03,300 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.pom
+2017-05-08 11:33:03,330 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.pom
+2017-05-08 11:33:03,381 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.pom
+2017-05-08 11:33:03,427 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-api-mockito/1.6.6/powermock-api-mockito-1.6.6.pom
+2017-05-08 11:33:03,502 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-api-mockito/1.6.6/powermock-api-mockito-1.6.6.pom
+2017-05-08 11:33:03,527 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-api-mockito/1.6.6/powermock-api-mockito-1.6.6.pom
+2017-05-08 11:33:03,578 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-api/1.6.6/powermock-api-1.6.6.pom
+2017-05-08 11:33:03,593 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-api/1.6.6/powermock-api-1.6.6.pom
+2017-05-08 11:33:03,673 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-api/1.6.6/powermock-api-1.6.6.pom
+2017-05-08 11:33:03,774 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-core/2.7.19/mockito-core-2.7.19.pom
+2017-05-08 11:33:03,792 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.19/mockito-core-2.7.19.pom
+2017-05-08 11:33:03,811 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.19/mockito-core-2.7.19.pom
+2017-05-08 11:33:03,856 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-api-mockito-common/1.6.6/powermock-api-mockito-common-1.6.6.pom
+2017-05-08 11:33:03,871 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-api-mockito-common/1.6.6/powermock-api-mockito-common-1.6.6.pom
+2017-05-08 11:33:03,944 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-api-mockito-common/1.6.6/powermock-api-mockito-common-1.6.6.pom
+2017-05-08 11:33:03,998 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-api-support/1.6.6/powermock-api-support-1.6.6.pom
+2017-05-08 11:33:04,033 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-api-support/1.6.6/powermock-api-support-1.6.6.pom
+2017-05-08 11:33:04,076 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-api-support/1.6.6/powermock-api-support-1.6.6.pom
+2017-05-08 11:33:04,131 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-module-junit4/1.6.6/powermock-module-junit4-1.6.6.jar
+2017-05-08 11:33:04,171 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-module-junit4-common/1.6.6/powermock-module-junit4-common-1.6.6.jar
+2017-05-08 11:33:04,207 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-core/1.6.6/powermock-core-1.6.6.jar
+2017-05-08 11:33:04,229 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar
+2017-05-08 11:33:04,272 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-reflect/1.6.6/powermock-reflect-1.6.6.jar
+2017-05-08 11:33:04,296 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-api-mockito/1.6.6/powermock-api-mockito-1.6.6.jar
+2017-05-08 11:33:04,319 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-api-mockito-common/1.6.6/powermock-api-mockito-common-1.6.6.jar
+2017-05-08 11:33:04,343 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-api-support/1.6.6/powermock-api-support-1.6.6.jar
+2017-05-08 11:33:04,392 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4/1.6.6/powermock-module-junit4-1.6.6.jar
+2017-05-08 11:33:04,585 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4/1.6.6/powermock-module-junit4-1.6.6.jar
+2017-05-08 11:33:04,597 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4-common/1.6.6/powermock-module-junit4-common-1.6.6.jar
+2017-05-08 11:33:04,750 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4-common/1.6.6/powermock-module-junit4-common-1.6.6.jar
+2017-05-08 11:33:04,763 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-core/1.6.6/powermock-core-1.6.6.jar
+2017-05-08 11:33:04,943 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-core/1.6.6/powermock-core-1.6.6.jar
+2017-05-08 11:33:05,012 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar
+2017-05-08 11:33:07,962 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar
+2017-05-08 11:33:08,002 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-reflect/1.6.6/powermock-reflect-1.6.6.jar
+2017-05-08 11:33:08,089 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-reflect/1.6.6/powermock-reflect-1.6.6.jar
+2017-05-08 11:33:08,111 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-api-mockito/1.6.6/powermock-api-mockito-1.6.6.jar
+2017-05-08 11:33:08,249 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-api-mockito/1.6.6/powermock-api-mockito-1.6.6.jar
+2017-05-08 11:33:08,292 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-api-mockito-common/1.6.6/powermock-api-mockito-common-1.6.6.jar
+2017-05-08 11:33:08,578 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-api-mockito-common/1.6.6/powermock-api-mockito-common-1.6.6.jar
+2017-05-08 11:33:08,632 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-api-support/1.6.6/powermock-api-support-1.6.6.jar
+2017-05-08 11:33:08,758 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-api-support/1.6.6/powermock-api-support-1.6.6.jar
+2017-05-08 11:33:12,227 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 11:33:13,363 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:33:13,372 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 11:33:13,436 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:33:13,442 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 11:36:01,612 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:36:01,612 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 11:36:01,613 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:36:01,618 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 11:37:28,583 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-08 11:37:28,960 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 11:37:29,200 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/main/java
+2017-05-08 11:37:29,205 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/main/resources
+2017-05-08 11:37:29,210 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/test/java
+2017-05-08 11:37:29,215 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/test/resources
+2017-05-08 11:37:29,332 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-05-08 11:37:29,841 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:37:29,842 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 11:37:29,914 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:37:29,915 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2017-05-08 11:38:12,948 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22-sources.jar
+2017-05-08 11:38:13,121 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22-sources.jar
+2017-05-08 11:38:13,518 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/2.7.22/mockito-core-2.7.22-sources.jar
+2017-05-08 11:38:13,817 [Worker-12] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-core:2.7.22
+2017-05-08 11:38:14,018 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:38:14,023 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 11:38:14,028 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:38:14,028 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 11:38:50,453 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:38:50,454 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 11:38:50,455 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:38:50,456 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-08 11:39:21,688 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:39:21,695 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 11:39:21,703 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:39:21,704 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 11:39:22,854 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:39:22,855 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 11:39:22,857 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:39:22,858 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 11:39:33,617 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-08 11:39:33,622 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-08 11:39:33,741 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-08 11:39:34,153 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 11:39:35,046 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:39:35,050 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 11:39:35,093 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:39:35,100 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 11:39:52,138 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:39:52,138 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 11:39:52,139 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 11:39:52,141 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:00:56,266 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:00:56,267 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:00:56,274 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:00:56,275 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:02:11,778 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-08 12:02:16,133 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-05-08 12:02:16,133 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-08 12:02:16,273 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-08 12:02:16,375 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-api-mockito/1.5.5/powermock-api-mockito-1.5.5.pom
+2017-05-08 12:02:16,532 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-api-mockito/1.5.5/powermock-api-mockito-1.5.5.pom
+2017-05-08 12:02:16,555 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-api-mockito/1.5.5/powermock-api-mockito-1.5.5.pom
+2017-05-08 12:02:16,611 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-api/1.5.5/powermock-api-1.5.5.pom
+2017-05-08 12:02:16,639 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-api/1.5.5/powermock-api-1.5.5.pom
+2017-05-08 12:02:16,666 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-api/1.5.5/powermock-api-1.5.5.pom
+2017-05-08 12:02:16,765 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock/1.5.5/powermock-1.5.5.pom
+2017-05-08 12:02:16,804 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock/1.5.5/powermock-1.5.5.pom
+2017-05-08 12:02:16,852 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock/1.5.5/powermock-1.5.5.pom
+2017-05-08 12:02:16,931 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-api-support/1.5.5/powermock-api-support-1.5.5.pom
+2017-05-08 12:02:16,951 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-api-support/1.5.5/powermock-api-support-1.5.5.pom
+2017-05-08 12:02:16,978 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-api-support/1.5.5/powermock-api-support-1.5.5.pom
+2017-05-08 12:02:17,038 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-core/1.5.5/powermock-core-1.5.5.pom
+2017-05-08 12:02:17,079 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-core/1.5.5/powermock-core-1.5.5.pom
+2017-05-08 12:02:17,099 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-core/1.5.5/powermock-core-1.5.5.pom
+2017-05-08 12:02:17,181 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-reflect/1.5.5/powermock-reflect-1.5.5.pom
+2017-05-08 12:02:17,211 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-reflect/1.5.5/powermock-reflect-1.5.5.pom
+2017-05-08 12:02:17,238 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-reflect/1.5.5/powermock-reflect-1.5.5.pom
+2017-05-08 12:02:17,365 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/objenesis/objenesis/2.1/objenesis-2.1.pom
+2017-05-08 12:02:17,418 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.1/objenesis-2.1.pom
+2017-05-08 12:02:17,457 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.1/objenesis-2.1.pom
+2017-05-08 12:02:17,499 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/objenesis/objenesis-parent/2.1/objenesis-parent-2.1.pom
+2017-05-08 12:02:17,515 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.1/objenesis-parent-2.1.pom
+2017-05-08 12:02:17,559 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.1/objenesis-parent-2.1.pom
+2017-05-08 12:02:17,636 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/javassist/javassist/3.18.2-GA/javassist-3.18.2-GA.pom
+2017-05-08 12:02:17,651 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.2-GA/javassist-3.18.2-GA.pom
+2017-05-08 12:02:17,677 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.2-GA/javassist-3.18.2-GA.pom
+2017-05-08 12:02:17,807 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-module-junit4/1.5.5/powermock-module-junit4-1.5.5.pom
+2017-05-08 12:02:17,831 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4/1.5.5/powermock-module-junit4-1.5.5.pom
+2017-05-08 12:02:17,850 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4/1.5.5/powermock-module-junit4-1.5.5.pom
+2017-05-08 12:02:17,924 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-modules/1.5.5/powermock-modules-1.5.5.pom
+2017-05-08 12:02:17,948 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-modules/1.5.5/powermock-modules-1.5.5.pom
+2017-05-08 12:02:17,987 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-modules/1.5.5/powermock-modules-1.5.5.pom
+2017-05-08 12:02:18,038 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-module-junit4-common/1.5.5/powermock-module-junit4-common-1.5.5.pom
+2017-05-08 12:02:18,054 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4-common/1.5.5/powermock-module-junit4-common-1.5.5.pom
+2017-05-08 12:02:18,081 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4-common/1.5.5/powermock-module-junit4-common-1.5.5.pom
+2017-05-08 12:02:18,122 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-api-mockito/1.5.5/powermock-api-mockito-1.5.5.jar
+2017-05-08 12:02:18,144 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-api-support/1.5.5/powermock-api-support-1.5.5.jar
+2017-05-08 12:02:18,166 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-core/1.5.5/powermock-core-1.5.5.jar
+2017-05-08 12:02:18,190 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/javassist/javassist/3.18.2-GA/javassist-3.18.2-GA.jar
+2017-05-08 12:02:18,215 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-reflect/1.5.5/powermock-reflect-1.5.5.jar
+2017-05-08 12:02:18,245 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/objenesis/objenesis/2.1/objenesis-2.1.jar
+2017-05-08 12:02:18,267 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-module-junit4/1.5.5/powermock-module-junit4-1.5.5.jar
+2017-05-08 12:02:18,306 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://bob.ipd.kit.edu/nexus/content/repositories/swt1/org/powermock/powermock-module-junit4-common/1.5.5/powermock-module-junit4-common-1.5.5.jar
+2017-05-08 12:02:18,405 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-api-mockito/1.5.5/powermock-api-mockito-1.5.5.jar
+2017-05-08 12:02:18,498 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-api-mockito/1.5.5/powermock-api-mockito-1.5.5.jar
+2017-05-08 12:02:18,522 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-api-support/1.5.5/powermock-api-support-1.5.5.jar
+2017-05-08 12:02:18,630 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-api-support/1.5.5/powermock-api-support-1.5.5.jar
+2017-05-08 12:02:18,653 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-core/1.5.5/powermock-core-1.5.5.jar
+2017-05-08 12:02:18,716 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-core/1.5.5/powermock-core-1.5.5.jar
+2017-05-08 12:02:18,725 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.2-GA/javassist-3.18.2-GA.jar
+2017-05-08 12:02:19,370 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.2-GA/javassist-3.18.2-GA.jar
+2017-05-08 12:02:19,399 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-reflect/1.5.5/powermock-reflect-1.5.5.jar
+2017-05-08 12:02:19,909 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-reflect/1.5.5/powermock-reflect-1.5.5.jar
+2017-05-08 12:02:19,921 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.1/objenesis-2.1.jar
+2017-05-08 12:02:20,105 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.1/objenesis-2.1.jar
+2017-05-08 12:02:20,128 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4/1.5.5/powermock-module-junit4-1.5.5.jar
+2017-05-08 12:02:20,206 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4/1.5.5/powermock-module-junit4-1.5.5.jar
+2017-05-08 12:02:20,220 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4-common/1.5.5/powermock-module-junit4-common-1.5.5.jar
+2017-05-08 12:02:20,284 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/powermock/powermock-module-junit4-common/1.5.5/powermock-module-junit4-common-1.5.5.jar
+2017-05-08 12:02:22,283 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a2:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 12:02:23,140 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:02:23,145 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 12:02:23,209 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:02:23,217 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:03:21,493 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:03:21,502 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:03:21,511 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:03:21,518 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:05:17,077 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:05:17,078 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:05:17,079 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:05:17,088 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:05:30,079 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:05:30,084 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:05:30,090 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:05:30,096 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:12:05,801 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:12:05,802 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:12:05,803 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:12:05,811 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:12:13,816 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:12:13,821 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:12:13,826 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:12:13,832 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:12:20,501 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:12:20,501 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:12:20,503 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:12:20,508 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:13:51,969 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:13:51,978 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:13:51,986 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:13:51,992 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:13:58,452 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:13:58,452 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:13:58,453 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:13:58,459 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:14:18,311 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:14:18,316 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:14:18,323 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:14:18,328 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:17:18,375 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:17:18,376 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:17:18,377 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:17:18,383 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:18:12,796 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:18:12,802 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:18:12,808 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:18:12,814 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:19:36,260 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-08 12:19:36,260 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-05-08 12:19:39,065 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:19:39,077 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 12:19:39,144 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:19:39,154 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:19:43,273 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-08 12:19:47,150 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-08 12:19:47,157 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-08 12:19:47,616 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 12:19:48,029 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:19:48,036 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:19:48,049 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:19:48,059 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:27:20,863 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:27:20,877 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:27:20,884 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:27:20,892 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:28:15,010 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-05-08 12:28:15,016 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-05-08 12:28:17,705 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:28:17,737 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 12:28:17,806 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:28:17,817 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:28:22,223 [Worker-79] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage
+2017-05-08 12:28:22,224 [Worker-79] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-05-08 12:28:45,833 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:28:45,859 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 12:28:45,878 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:28:45,888 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:28:52,777 [Worker-77] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-08 12:28:53,000 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-08 12:28:55,954 [Worker-77] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 12:28:56,639 [Worker-77] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/main/java
+2017-05-08 12:28:56,645 [Worker-77] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/main/resources
+2017-05-08 12:28:56,651 [Worker-77] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/test/java
+2017-05-08 12:28:56,651 [Worker-77] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/test/resources
+2017-05-08 12:28:56,765 [Worker-77] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-05-08 12:28:57,458 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:28:57,465 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 12:28:57,507 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:28:57,515 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:29:06,408 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-08 12:29:06,413 [Worker-77] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-08 12:29:06,529 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-08 12:29:06,817 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 12:29:07,751 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:29:07,759 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 12:29:07,804 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:29:07,809 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:29:46,124 [Worker-73] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-08 12:29:46,124 [Worker-73] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
+2017-05-08 12:36:36,973 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:36:36,979 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:36:36,984 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:36:36,990 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:36:38,124 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:36:38,126 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 12:36:38,129 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:36:38,135 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:38:20,558 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-08 12:38:52,913 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-08 12:38:53,503 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 12:38:54,320 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:38:54,328 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 12:38:54,361 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:38:54,363 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:39:03,061 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:39:03,062 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:39:03,062 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:39:03,063 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:39:23,196 [Worker-87] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-08 12:39:23,200 [Worker-87] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-08 12:39:47,537 [Worker-85] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main
+2017-05-08 12:39:47,537 [Worker-85] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-08 12:39:47,667 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:39:47,677 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:39:47,683 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:39:47,684 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:39:48,717 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:39:48,719 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 12:39:48,722 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:39:48,722 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:45:40,191 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:45:40,198 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:45:40,204 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:45:40,205 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:45:41,336 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:45:41,337 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 12:45:41,339 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:45:41,339 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:47:50,110 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:47:50,116 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:47:50,122 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:47:50,123 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 12:48:00,832 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:48:00,833 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 12:48:00,834 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 12:48:00,835 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 22:02:15,283 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-08 22:02:25,104 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 22:02:43,783 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-05-08 22:03:04,566 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:03:04,597 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 22:03:06,752 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:03:06,752 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 22:04:52,691 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:04:52,694 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 22:04:52,696 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:04:52,701 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 22:08:27,926 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:08:27,926 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 22:08:27,942 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:08:27,942 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 22:08:46,683 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:08:46,683 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 22:08:46,699 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:08:46,701 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 22:28:14,965 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-05-08 22:28:27,503 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to build parent project for swt1.ub1.a3:2056751:jar:0.0.1-SNAPSHOT
+2017-05-08 22:28:27,519 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-08 22:28:27,604 [Worker-31] ERROR o.e.m.c.internal.embedder.MavenImpl - Could not read parent project
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for xerces:xercesImpl:jar is missing. @ line 56, column 13
+
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:195) ~[maven-core-3.3.9.jar:3.3.9]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119) ~[maven-core-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolveParentProject(MavenImpl.java:683) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$4.call(MavenImpl.java:709) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$4.call(MavenImpl.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolveParentProject(MavenImpl.java:707) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.getPomMappingMetadataSources(LifecycleMappingFactory.java:877) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.getProjectMetadataSourcesMap(LifecycleMappingFactory.java:279) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.getProjectMetadataSources(LifecycleMappingFactory.java:256) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.calculateEffectiveLifecycleMappingMetadata(LifecycleMappingFactory.java:240) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.calculateLifecycleMapping(LifecycleMappingFactory.java:181) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.setupLifecycleMapping(ProjectRegistryManager.java:594) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:513) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$3.call(ProjectRegistryManager.java:492) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$3.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:496) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model for swt1:iMage:0.0.1-SNAPSHOT
+[ERROR] 'dependencies.dependency.version' for xerces:xercesImpl:jar is missing. @ line 56, column 13
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:479) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:421) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:411) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161) ~[maven-core-3.3.9.jar:3.3.9]
+	... 40 common frames omitted
+2017-05-08 22:28:27,961 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 22:28:28,700 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to build parent project for swt1.ub1.a3:2056751:jar:0.0.1-SNAPSHOT
+2017-05-08 22:42:52,121 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-08 22:42:52,475 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 22:42:52,923 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:42:52,923 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 22:42:52,945 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:42:52,945 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 22:42:56,122 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-08 22:42:56,207 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-08 22:42:56,476 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 22:42:56,627 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/main/java
+2017-05-08 22:42:56,628 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/main/resources
+2017-05-08 22:42:56,633 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/test/java
+2017-05-08 22:42:56,633 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/test/resources
+2017-05-08 22:42:56,757 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-05-08 22:42:57,387 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:42:57,393 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-08 22:42:57,422 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:42:57,422 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-08 22:47:04,735 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-08 22:47:05,016 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 22:47:05,352 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:47:05,358 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 22:47:05,364 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 22:47:05,370 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 23:51:14,142 [Worker-64] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-08 23:51:14,492 [Worker-64] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-08 23:51:14,862 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 23:51:14,869 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-08 23:51:14,876 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 23:51:14,881 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-10 09:53:09,518 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-10 10:00:41,329 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:00:41,345 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-10 10:00:41,365 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:00:41,365 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-10 10:01:25,265 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:01:25,265 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-10 10:01:25,265 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:01:25,265 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-10 10:01:44,279 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:01:44,279 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-10 10:01:44,279 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:01:44,279 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-10 10:03:06,614 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:03:06,614 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-10 10:03:06,614 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:03:06,614 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-10 10:06:11,397 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:06:11,397 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-10 10:06:11,397 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:06:11,397 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-10 10:07:26,377 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:07:26,393 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-10 10:07:26,393 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:07:26,408 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-10 10:08:30,109 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:08:30,109 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-10 10:08:30,109 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:08:30,109 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-10 10:47:17,150 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-10 10:47:17,446 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-10 10:47:20,100 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-10 10:47:20,752 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/main/java
+2017-05-10 10:47:20,752 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/main/resources
+2017-05-10 10:47:20,752 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/test/java
+2017-05-10 10:47:20,752 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/test/resources
+2017-05-10 10:47:21,152 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2017-05-10 10:47:22,110 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:47:22,111 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-10 10:47:22,227 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:47:22,227 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-10 10:47:48,042 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:47:48,064 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-10 10:47:48,064 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:47:48,080 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-10 10:48:49,470 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-10 10:48:49,571 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-10 10:48:49,934 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-10 10:48:50,127 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/main/java
+2017-05-10 10:48:50,134 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/main/resources
+2017-05-10 10:48:50,139 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmjrst.main/src/test/java
+2017-05-10 10:48:50,139 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jmjrst.main/src/test/resources
+2017-05-10 10:48:50,278 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-05-10 10:48:50,864 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:48:50,864 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-10 10:48:50,896 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:48:50,911 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-10 10:58:03,403 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:58:03,403 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-10 10:58:03,403 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 10:58:03,403 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-10 11:00:35,787 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 11:00:35,787 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-10 11:00:35,803 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-10 11:00:35,803 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-05-10 20:04:00,995 [Worker-163] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: swt1:iMage:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\pom.xml.
+2017-05-10 20:04:07,374 [Worker-163] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: swt1.ub1.a3:2056751:0.0.1-SNAPSHOT @ C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml.
+2017-05-17 09:48:48,000 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-05-17 09:49:01,686 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-17 09:49:01,709 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2017-05-17 09:49:01,991 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-17 09:49:01,992 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources

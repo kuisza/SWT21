@@ -1,4 +1,10 @@
 <changelog><commit>
+					<time>1493766869</time>
+					<sha1>29827b3c61f2109ac17dc63ea73bd84cf62ba477</sha1>
+					<author>kuisza</author>
+					<branches>refs/heads/master</branches>
+					<msg>last changes</msg>
+				</commit><commit>
 					<time>1493671682</time>
 					<sha1>a1e87eae59a9c5f23445e15689496ea21254a669</sha1>
 					<author>kuisza</author>

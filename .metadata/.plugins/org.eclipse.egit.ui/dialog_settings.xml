@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="GitCreatePatchWizard">
+		<item value="C:/Users/bedaa/OneDrive/Documents/SWT2/iMage/jmjrst.main/src/test/resources" key="GitCreatePatchWizard.LocationPage.path"/>
+		<item value="3" key="GitCreatePatchWizard.OptionsPage.contextLines"/>
+		<item value="filesystem" key="GitCreatePatchWizard.LocationPage.location"/>
+		<item value="NONE" key="GitCreatePatchWizard.OptionsPage.format"/>
+	</section>
+</section>

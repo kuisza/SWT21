@@ -5,11 +5,17 @@ import static org.junit.Assert.*;
 import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferByte;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;
+import java.util.Vector;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipInputStream;
 
 import javax.imageio.IIOImage;
 import javax.imageio.ImageIO;
@@ -24,19 +30,31 @@ import javax.imageio.plugins.jpeg.JPEGImageWriteParam;
 import javax.imageio.stream.ImageInputStream;
 import javax.imageio.stream.MemoryCacheImageOutputStream;
 
+
+import org.jis.Main;
 import org.jis.generator.Generator;
 import org.junit.After;
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
+import static org.mockito.Mockito.*;
+
 
 public class RotateImageTest {
 	
+	
 	private Generator generatortest = new Generator(null , 0);
 	private BufferedImage i;
+	private Main main = mock(Main.class);
+	private Generator generatortest2 = new Generator(main , 1);
+	
 	
 	@Before
 	public void setUp() {
 		File file = new File("src/test/resources/picture.jpg");
+		File file2 = new File("src/test/resources/picture90.jpg");
+		File file3= new File("src/test/resources/picture180.jpg");
+		File file4 = new File("src/test/resources/picture270.jpg");
 		i = null;
 	    IIOMetadata imeta = null;
 		
@@ -48,6 +66,17 @@ public class RotateImageTest {
 	      ImageReadParam params = reader.getDefaultReadParam();
 	      i = reader.read(0, params);
 	      imeta = reader.getImageMetadata(0);
+	      
+	      ImageInputStream iis2 = ImageIO.createImageInputStream(file2);
+	      ImageReader reader2 = ImageIO.getImageReadersByFormatName("jpg").next();
+	      
+	      ImageInputStream iis3 = ImageIO.createImageInputStream(file3);
+	      ImageReader reader3 = ImageIO.getImageReadersByFormatName("jpg").next();
+	   
+	      ImageInputStream iis4 = ImageIO.createImageInputStream(file4);
+	      ImageReader reader4 = ImageIO.getImageReadersByFormatName("jpg").next();
+	   
+	      
 	    }
 	    catch (IOException e)
 	    {
@@ -86,6 +115,9 @@ public class RotateImageTest {
 		image = generatortest.rotateImage(image, Generator.ROTATE_270);
 		assertEquals(bufferedImagesEqual(i, image), true);
 		teardown(image);
+		image = generatortest.rotateImage(i, Generator.ROTATE_270);
+		assertEquals(buffImRotEqual(i, image), true);
+		teardown(image);
 	}
 	
 	@Test
@@ -96,6 +128,164 @@ public class RotateImageTest {
 		assertEquals(buffImRotEqual(i , image), true);
 		teardown(image);
 	}
+	
+	@Test
+	public void generateImageTest() throws IOException {
+		File imagefile = new File("src\\test\\resources\\picture.jpg");
+		assertEquals(imagefile.exists(), true);
+		File out = new File("target\\data_test");
+		boolean print = false;
+		int width = 800;
+		int height = 1024;
+		String prefix = "test-";
+		
+		generatortest.generateImage(imagefile, out, print, width, height, prefix);
+		
+		File exist = new File("target\\data_test\\test-picture.jpg");
+		
+		assertEquals(exist.exists(), true);
+		
+		
+	}
+
+	
+	@Test
+	public void ZipTest() throws IOException {
+		File zipname = new File("target\\data_test\\ZipTest.zip");
+		File file1 = new File("src\\test\\resources\\picture.jpg");
+		File file2 = new File("src\\test\\resources\\picture90.jpg");
+		File file3 = new File("src\\test\\resources\\picture180.jpg");
+        File file4 = new File("src\\test\\resources\\picture270.jpg");
+
+		
+		Vector<File> zipvector = new Vector<File>();
+		zipvector.addElement(file1);
+		zipvector.addElement(file2);
+		zipvector.addElement(file3);
+		zipvector.addElement(file4);
+		
+		generatortest.createZip(zipname, zipvector);
+		
+		assertEquals(new File("target\\data_test\\ZipTest.zip").exists() , true);
+		
+		FileInputStream inputstream = new FileInputStream(zipname);
+		ZipInputStream zipstream = new ZipInputStream(inputstream);
+		
+		ZipEntry entry = null;
+		
+		int n = 0;
+		
+		while ((entry = zipstream.getNextEntry()) != null) {
+			
+			String name = entry.getName();
+			String name2 = zipvector.get(n).getName();
+			
+			assertEquals(name , name2);
+			assertEquals(zipvector.get(n).getName() , entry.getName());
+			
+	
+		n++;
+	}
+		
+		zipstream.close();	
+		
+	}
+	
+
+	
+	@Ignore
+	public void generateText() throws IOException {
+		File input = new File("src\\test\\resources\\SinglePicture.jpg");
+		File out = new File("target\\data_test");
+		int width = 600;
+		int height = 600;
+		
+		generatortest.generateText(input, out, width, height);
+		
+		File pic = new File("target\\data_test\\SinglePicture.jpg");
+		
+		BufferedImage i2 = null;
+	    IIOMetadata imeta = null;
+		
+		try
+	    {
+	      ImageInputStream iis = ImageIO.createImageInputStream(pic);
+	      ImageReader reader = ImageIO.getImageReadersByFormatName("jpg").next();
+	      reader.setInput(iis, true);
+	      ImageReadParam params = reader.getDefaultReadParam();
+	      i2 = reader.read(0, params);
+	      imeta = reader.getImageMetadata(0); 
+	      
+	    }
+		catch (IOException e)
+	    {
+	      System.err.println("Error while reading File: " + pic.getAbsolutePath());
+	      e.printStackTrace();
+	      return;
+	    }
+		
+		assertEquals(i2.getWidth(null), 600 );
+		assertEquals(i2.getHeight(null), 600 );
+		
+	}
+	
+		
+	@Ignore
+	public void rotateTest() {
+		generatortest.rotate(new File("src\\test\\resources\\pictureforRotate.jpg"));
+		
+		BufferedImage image = generatortest.rotateImage(i, Generator.ROTATE_90);
+		assertEquals(true , buffImRotEqual(i, image));
+	}
+	
+	@Test
+	public void generateText2() throws IOException {
+		File input = new File("src\\test\\resources\\SinglePicture.jpg");
+		File out = new File("target\\data_test");
+		int width = 600;
+		int height = 600;
+		
+		generatortest2.generateText(input, out, width, height);
+		
+		File pic = new File("target\\data_test\\SinglePicture.jpg");
+		
+		BufferedImage i2 = null;
+	    IIOMetadata imeta = null;
+		
+		try
+	    {
+	      ImageInputStream iis = ImageIO.createImageInputStream(pic);
+	      ImageReader reader = ImageIO.getImageReadersByFormatName("jpg").next();
+	      reader.setInput(iis, true);
+	      ImageReadParam params = reader.getDefaultReadParam();
+	      i2 = reader.read(0, params);
+	      imeta = reader.getImageMetadata(0); 
+	      
+	    }
+		catch (IOException e)
+	    {
+	      System.err.println("Error while reading File: " + pic.getAbsolutePath());
+	      e.printStackTrace();
+	      return;
+	    }
+		
+		assertEquals(i2.getWidth(null), 600 );
+		assertEquals(i2.getHeight(null), 600 );
+		
+	}
+	
+	
+	@Ignore
+	public void rotateTest2() {
+		generatortest2.rotate(new File("src\\test\\resources\\pictureforRotate.jpg"));
+		
+		BufferedImage image = generatortest2.rotateImage(i, Generator.ROTATE_90);
+		assertEquals(true , buffImRotEqual(i, image));
+	}
+	
+	
+	
+	
 	
 	
 	

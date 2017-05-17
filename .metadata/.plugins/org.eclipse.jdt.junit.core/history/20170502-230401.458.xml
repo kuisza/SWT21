@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="RotateImageTest" project="jmjrst.main" tests="5" started="5" failures="0" errors="0" ignored="0">
-  <testsuite name="jmjrst.main.RotateImageTest" time="0.201">
-    <testcase name="testrotateImage2" classname="jmjrst.main.RotateImageTest" time="0.069"/>
-    <testcase name="testrotatingwith180" classname="jmjrst.main.RotateImageTest" time="0.063"/>
-    <testcase name="testrotateImage" classname="jmjrst.main.RotateImageTest" time="0.022"/>
-    <testcase name="test" classname="jmjrst.main.RotateImageTest" time="0.016"/>
-    <testcase name="testrotating" classname="jmjrst.main.RotateImageTest" time="0.031"/>
-  </testsuite>
-</testrun>
