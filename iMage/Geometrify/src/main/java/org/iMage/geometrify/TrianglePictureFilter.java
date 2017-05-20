@@ -3,6 +3,13 @@ package org.iMage.geometrify;
 import java.awt.Color;
 import java.awt.image.BufferedImage;
 
+
+/**
+ * Trianglepicture filter.
+ *
+ * @author Student
+ * @version 1.0
+ */
 public class TrianglePictureFilter extends AbstractPrimitivePictureFilter {
 	public TrianglePictureFilter(IPointGenerator pointGenerator) {
 		super(pointGenerator);
