@@ -11,6 +11,9 @@ import java.awt.image.BufferedImage;
  * @version 1.0
  */
 public class TrianglePictureFilter extends AbstractPrimitivePictureFilter {
+	/**
+	 * @param pointGenerator it generates a point?
+	 */
 	public TrianglePictureFilter(IPointGenerator pointGenerator) {
 		super(pointGenerator);
 	}
