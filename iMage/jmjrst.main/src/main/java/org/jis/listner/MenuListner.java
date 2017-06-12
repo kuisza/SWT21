@@ -110,7 +110,8 @@ public class MenuListner implements ActionListener {
     {
       m.setLookFeel(gtkClassName);
       o.setLookAndFeel(gtkClassName);
-    }
+    }  
+    
     else if (e.getSource() == menu.update_check)
     {
       try

@@ -1,0 +1,145 @@
+\documentclass[parskip=full]{scrartcl}
+\usepackage[utf8]{inputenc} % use utf8 file encoding for TeX sources
+\usepackage[T1]{fontenc}    % avoid garbled Unicode text in pdf
+\usepackage[german]{babel}  % german hyphenation, quotes, etc
+\usepackage{hyperref}       % detailed hyperlink/pdf configuration
+\usepackage{siunitx}  % specical characters
+\hypersetup{                % ‘texdoc hyperref‘ for options
+pdftitle={iMage Lastenheft },%
+bookmarks=true,%
+}
+\usepackage{graphicx}       % provides commands for including figures
+\usepackage{csquotes}       % provides \enquote{} macro for "quotes"
+\usepackage[nonumberlist]{glossaries}     % provides glossary commands
+\usepackage{enumitem}
+
+\makenoidxglossaries
+%
+% % Glossareinträge
+%
+\newglossaryentry{Kunstfilter}
+{
+	name=Kunstfilter,
+	plural=Kunstfilter,
+	description={Funktionen in einer Grafiksoftware, beispielsweise einem Bildbearbeitungsprogramm, die ein bestehendes digitales Bild (meistens Rastergrafik) mit einem vorprogrammierten Algorithmus, der häufig in einigen Parametern konfigurierbar ist, gezielt verändern.},
+}
+
+\newglossaryentry{Primitiv}
+{
+	name=Primitiv,
+	plural=Primitive,
+	description={Elementare ein-, zwei- oder dreidimensionale geometrische Formen, die ein Bestandteil von Austauschformaten (z. B. DXF, PCL oder SVG) sind.}
+}
+
+\newglossaryentry{Firmenzentrale}
+{
+	name=Firmenzentrale,
+	plural=Firmenzentralen,
+	description={Das werden die Dateien verarbeitet und die Apps weiterentwickelt. }
+}
+
+\newglossaryentry{Nutzer}
+{
+	name=Nutzer,
+	plural=Nutzern,
+	description={Leute, die die App verwenden, um Bilder zu bearbeiten}
+}
+
+\newglossaryentry{Kunde}
+{
+	name=Kunde,
+	plural=Kunden,
+	description={Leute, die die App verwenden, um Bilder zu bearbeiten (\gls{Nutzer})}
+}
+
+\title{iMage Lastenheft}
+\author{Ármin Béda, 2056751}
+
+\begin{document}
+
+\maketitle
+
+
+
+%
+% % Hier beginnt die Gliederung des Lastenhefts
+%
+\section{Zielbestimmung}
+Die Firma Pear Corp. soll durch das Produkt iMage in die Lage versetzt werden, ein gegebenes Bild durch Hinzufügen vieler gleichartiger \gls{Primitiv}e nachzubilden.
+
+\section{Produkteinsatz}
+Das Produkt dient zu den Kunden (um Bilder mit \gls{Kunstfilter} nachzubilden) und zur \gls{Firmenzentrale} der Firma Pear Corp. (um den App zu verbessern).
+
+Zielgruppe: Kunden, die Bilder mit \gls{Kunstfilter} nachbilden möchten.
+
+Plattform: PC mit Windows, Mac oder Linux. 
+
+\section{Funktionale Anforderungen}
+\begin{itemize}[nosep]
+\item[FA10] Drehen des Bildes mit \SI{90}{\degree} ,  \SI{180}{\degree} ,  \SI{270}{\degree} oder  \SI{360}{\degree}.
+\item[FA20] Auslieferung ein \gls{Kunstfilter} zur Abstraktion eines Bilds durch geometrichse \gls{Primitiv}e.
+\item[FA30] In-App-Käufe von weiteren Filtern.
+\item[FA40] Auswahl des verwendeten Primitivs per Auswahlmenü in der graphischen Benutzeroberfläche von iMage.
+\item[FA50] Vorschau des Filtereffektes für das aktuelle Bild.
+\item[FA60] Berechnung des Vorschaubilds soll in Echtzeit.
+\item[FA70] Weiterleitung der Bilder an die Firmenzentrale.
+\end{itemize}
+
+\section{Produktdaten}
+\begin{itemize}[nosep]
+\item[PD10] Es sind eine Variante des Bildes mit niedriger Auflösung durch den \gls{Nutzer} zu speichern.
+\item[PD20] Es sind relevante Daten über das Verhalten des \gls{Kunde}n zu speichern.
+\item[PD30] Es gibt ein gegebenes Bild hochzuladen.
+\end{itemize}
+
+\section{Nichtfunktionale Anforderungen}
+\begin{itemize}[nosep]
+\item[NF10] Die Optionen im Auswahlmenü soll für die Benutzer eindeutig sein.
+\item[NF20] Unformen eines Bildes (Drehung,  Auslieferung ein \gls{Kunstfilter} zur Abstraktion) darf nicht länger als 10 Sekunden dauern.
+\item[NF30] Die an die Firmenzentrale weiterleitende Bilder soll  für die Entwicklung der App verwendet werden.
+\end{itemize}
+
+\section{Systemmodelle}
+
+\subsection{Szenarien}
+Eine Kunde verwendet iMage. Er nutzt RotateImage um das Bild mit einem bestimmten Winkel  zu drehen. Dann möchte er ein Kunstfilter hinzufügen. Dafür benutzt er Geometrify. Er kann das verwendete Primitiv  in der graphischen Benutzeroberfläche von iMage auswählen. Diese Assoziationen sind bidirektional: Nach der Auswahl des Primitivs ist eine Vorschau des Filtereffektes für das aktuelle Bild in Echtzeit angezeigt. Diese Bilder sind zur Verbesserung der App an die Pear-Corp.-Firmenzentrale übermittelt. Diese Scenario ist bei dem Anwendungsfall, unter dem Punkt 6.2.1 angezeigt.
+
+\subsection{Anwendungsfälle}
+\subsubsection{Ein Bild bearbaiten}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{C:/Users/bedaa/Downloads/Anwendungsfalldiagramm.pdf}
+\end{center}
+
+Akteure: Kunde, Mitarbeiter im Firmenzentrum.
+
+Anwendungsfälle: RotateImage, Geometrify.
+
+
+\section{Durchführbarkeitsstudie}
+\subsection{Prüfen der fachlichen Durchführbarkeit}
+Softwaretechnisch ist es realisierbar, wir haben vorprogrammierten Algorithmen, die ein bestehendes digitales Bild, der häufig in einigen Parametern konfigurierbar ist, gezielt verändern kann.
+\subsection{Prüfen alternativer Lösungsvorschläge}
+Alternativ könnten wir ein Standardsoftware kaufen und es anpassen, aber in diesem Fall wir sind in der Lage um es individual- zu entwickeln
+\subsection{Prüfen der personellen Durchführbarkeit}
+Wir haben qualifizierter Fachkräfte für die Entwicklung: das bin ich, KIT Student.
+\subsection{Prüfen der Risiken}
+Wenn wir es mit 'Spagetticode' schaffen, dann kann es ganz langsam sein.
+\subsection{Prüfen der ökonomischen Durchführbarkeit}
+Wir muss in 5 Tage schaffen. Dieses Projekt bedeutet kein weiter kosten für uns.
+\subsection{Rechtliche Gesichtspunkte}
+Die Bilder, die die Kunden bearbeiten darf nich an Dritte weitergegeben werden.
+
+
+
+
+
+%
+% % Automatisch generiertes Glossar (Latex zwei mal ausführen um Glossar anzuzeigen)
+%
+%\glsaddall % das sorgt dafür, dass alles Glossareinträge gedruckt werden, nicht nur die verwendeten. Das sollte nicht nötig sein!
+\printnoidxglossaries
+
+
+
+
+\end{document}

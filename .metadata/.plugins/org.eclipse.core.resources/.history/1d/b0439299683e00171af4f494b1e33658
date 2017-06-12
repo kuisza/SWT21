@@ -1,0 +1,19 @@
+package org.iMage.geometrify;
+
+import static org.junit.Assert.*;
+
+import java.awt.Point;
+
+import org.junit.Test;
+
+public class TriangleTest {
+
+	@Test
+	public void isInsidePrimitive() {
+		Triangle triangle = new Triangle(new Point(2,12) , new Point(2,12), new Point(6,6));
+		
+		assertEquals(true , triangle.isInsidePrimitive(new Point(4,6)));
+		assertEquals(false , triangle.isInsidePrimitive(new Point(4,18)));
+	}
+
+}

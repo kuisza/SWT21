@@ -68,7 +68,6 @@ import org.jis.options.Options;
 public class Generator {
   public final static double ROTATE_90  = Math.toRadians(90);
   public final static double ROTATE_270 = Math.toRadians(270);
-  public final static double ROTATE_180 = Math.toRadians(180);
 
   private Main               m;
   private Options            o;
@@ -310,7 +309,7 @@ public class Generator {
    *          int, width of the scaled image
    * @param height
    *          int, heigth of the scaled image
-   * @return File6
+   * @return File
    * @throws IOException
    * @throws ImageFormatException
    */
@@ -547,7 +546,7 @@ public class Generator {
   public void generateSingle(File file, BufferedImage image)
   {
 
-    // where should the image saved?
+    // where shuld the image saved?
     JOptionPane.showMessageDialog(null, m.mes.getString("Generator.15"));
 
     // select the output image
@@ -724,7 +723,7 @@ public class Generator {
 
     AffineTransform transform = new AffineTransform();
 
-    // get width and height of the origianl image
+    // get width and height of the original image
     int width = image.getWidth(null);
     int height = image.getHeight(null);
 
@@ -741,19 +740,16 @@ public class Generator {
       transform.rotate(Generator.ROTATE_270);
       width = image.getHeight(null); // swap
       height = image.getWidth(null);
-    }
-  else if (rotate == Generator.ROTATE_180)
-    {
-    	 transform.translate(height, 0);
-         transform.rotate(Generator.ROTATE_90);
-         transform.translate(height, 0);
-         transform.rotate(Generator.ROTATE_90);
-         width = image.getWidth(); // do not swap
-         height = image.getHeight();
+    } 
+    /*
+     * SWT1 Übungsblatt 1 Aufgabe 2 g) 
+     */
+    else if (Math.abs(rotate - Math.toRadians(180)) < 0.0000001d) {
+	  return rotateImage(rotateImage(image, Generator.ROTATE_90), Generator.ROTATE_90);
     }
     else
     {
-      throw new IllegalArgumentException("degree must be a mutiple of 90�!");
+      throw new IllegalArgumentException("degree must be a mutiple of 90°!");
     }
 
     // Return a new Image

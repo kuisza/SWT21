@@ -1,0 +1,67 @@
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation = "horizontal">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Allah"
+                android:background="#FFFFFF"
+                android:id = "@+id/allah"
+                />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Islamic Phrases"
+                android:background="#FFFFFF"
+                android:id = "@+id/islamic"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Greetings"
+                android:background="#FFFFFF"
+                android:id = "@+id/greetings"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Funny"
+                android:background="#FFFFFF"
+                android:id = "@+id/funny"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Marriage"
+                android:background="#FFFFFF"
+                android:id = "@+id/marriage"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ramadan"
+                android:background="#FFFFFF"
+                android:id = "@+id/ramadan"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Motivation"
+                android:background="#FFFFFF"
+                android:id = "@+id/motivation"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Blessings"
+                android:background="#FFFFFF"
+                android:id = "@+id/blessings"/>
+
+        </LinearLayout>
+    </HorizontalScrollView>

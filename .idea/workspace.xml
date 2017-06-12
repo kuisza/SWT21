@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad9baa5d-acdd-452b-b878-700cd4b21e5b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/10/a018de47b03200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/11/9094ebcebe3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/12/e0766ad2d6330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/18/d031f5b8ac3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/1a/001f2fbfd0330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/1a/40d51999293400171dd9bd6793ade825" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/1d/b050840bab35001711f1ddca8f95f4ea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/1d/b0c85c2cbf3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/27/60f3a269ac3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/29/70437d87da330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/2a/20fd8a22ab3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/2f/e0bfd876d0330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/30/405dd5adaa3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/30/d0f3577e2f3400171dd9bd6793ade825" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/33/20478c195735001711f1ddca8f95f4ea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/38/e08c366ad5330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/3a/108c09d6d5330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/3f/3015b2bfd1330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/47/d0dda2c8ac3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/48/10b476192a3400171dd9bd6793ade825" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/48/30d256e42c3400171dd9bd6793ade825" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/48/907f6f215f35001711f1ddca8f95f4ea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/5/1095f683d7330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/52/a0aa10ebd8330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/5a/0037b2875735001711f1ddca8f95f4ea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/5e/b05723dd5635001711f1ddca8f95f4ea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/5f/60c3ee08d7330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/62/20515d43d1330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/64/506863b45735001711f1ddca8f95f4ea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/65/70727ee85635001711f1ddca8f95f4ea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/6c/2026a318d7330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/6d/6097a5c9d6330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/6f/0008943ad5330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/85/b0109ea6ac3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8b/c0a5c9ddd5330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8c/80c28a36da330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8c/b01a96bfbe3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/8e/403acb0cd7330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/91/50205901bf3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/95/304c8fc4be3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/97/1057bb7dad3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/97/50c6bda6af3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9e/a0c13eaaad3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a3/10e0bde72e3400171dd9bd6793ade825" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/a5/b03be64eaa3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/aa/f0467078ab3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ac/60a598c65e35001711f1ddca8f95f4ea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/b3/b0a41849d2330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ba/602aba74383400171dd9bd6793ade825" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/bd/30ecb6add0330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/bd/404366a4d7330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/bd/80676e60bf3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/bf/806d62da5735001711f1ddca8f95f4ea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/bf/b0961c91d5330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/c0/30ec8b242a3400171dd9bd6793ade825" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ca/d0cd6dced6330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/cc/a06d5d4bab3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d5/e08e022ad9330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d6/e0d35f53d1330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d7/406f18c0ac3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e1/d0ff38c1bf3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e8/007685c5503200171ff3e49516d556ab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e8/b062a4314b3300171014a800e54efbbe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/e9/a0065e575d35001711f1ddca8f95f4ea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/eb/80cd163ed2330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f4/e0a9f036d2330017179aecfca8915bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/f6/005e39d9be3200171f82f8717bf9f62b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/iMage/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/iMage/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/jmjrst.main/.indexes/e4/92/22/94/b9/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/jmjrst.main/.indexes/e4/e7/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/jmjrst.main/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/jmjrst.main/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/13.tree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/13.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2078520850.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3576598216.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/808054712.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/832412031.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_a.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_a_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_b.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_b_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_c.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_c_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_d.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_d_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_e.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_e_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_f.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_f_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_g.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_g_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_h.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_i" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/6bf135f5daba2cc0bce79f4293afdabb/_1o.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/6bf135f5daba2cc0bce79f4293afdabb/_1o_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/6bf135f5daba2cc0bce79f4293afdabb/_1p.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/6bf135f5daba2cc0bce79f4293afdabb/_1q.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/6bf135f5daba2cc0bce79f4293afdabb/_1q_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/6bf135f5daba2cc0bce79f4293afdabb/_1r.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/6bf135f5daba2cc0bce79f4293afdabb/_1r_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/6bf135f5daba2cc0bce79f4293afdabb/_1s.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/6bf135f5daba2cc0bce79f4293afdabb/segments_1o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_28.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_28_2.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_29.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_29_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2a.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2a_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2b.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2b_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2c.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2c_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2d.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2e.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_28" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_6.fdt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_6.fdx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_6.fnm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_6.frq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_6.nrm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_6.prx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_6.tii" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/_6.tis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/segments_7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/java/org/jis/messages_de.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/java/org/jis/messages_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/options.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-bg_flat_30_cccccc_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-bg_flat_50_5c5c5c_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-bg_glass_40_ffc73d_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-bg_highlight-hard_20_0972a5_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-bg_highlight-soft_33_003147_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-bg_highlight-soft_35_222222_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-bg_highlight-soft_44_444444_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-bg_highlight-soft_80_eeeeee_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-bg_loop_25_000000_21x21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-icons_4b8e0b_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-icons_a83300_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-icons_cccccc_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/images/ui-icons_ffffff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/dark-hive/jquery-ui-1.8.6.custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_loading.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_nav_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_nav_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_shadow_e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_shadow_n.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_shadow_ne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_shadow_nw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_shadow_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_shadow_se.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_shadow_sw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_shadow_w.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_title_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_title_main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_title_over.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancy_title_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancybox-x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancybox-y.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/images/fancybox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/js/jquery-1.4.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/js/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/js/ppgallery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/aPpGallery/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/css/fancy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_loading.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_nav_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_nav_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_shadow_e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_shadow_n.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_shadow_ne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_shadow_nw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_shadow_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_shadow_se.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_shadow_sw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_shadow_w.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_title_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_title_main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_title_over.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancy_title_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancybox-x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancybox-y.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/images/fancybox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/js/jquery-1.4.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/js/jquery.easing-1.3.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/js/jquery.fancybox-1.3.4.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/js/jquery.mousewheel-3.0.4.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/afancyboxslideshow/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblue/images/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblue/images/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblue/images/header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblue/images/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblue/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblue/images/thumb_background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblue/images/thumb_preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblue/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblue/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblue/preview.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblue/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblue/styles/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/css/lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/closelabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/next.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/nextlabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/prevlabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/thumb_background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/images/thumb_preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/js/builder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/js/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/js/lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/js/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/js/scriptaculous.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babyblueslideshow/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/images/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/images/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/images/header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/images/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/images/thumb_background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/images/thumb_preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/preview.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypink/styles/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/css/lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/closelabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/next.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/nextlabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/prevlabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/thumb_background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/images/thumb_preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/js/builder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/js/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/js/lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/js/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/js/scriptaculous.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/babypinkslideshow/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/blackwhite/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/blackwhite/js/niftycube.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/blackwhite/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/blackwhite/preview.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/blackwhite/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/blackwhite/styles/niftyCorners.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/blackwhite/styles/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_closebox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_loading.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_nav_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_nav_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_shadow_e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_shadow_n.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_shadow_ne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_shadow_nw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_shadow_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_shadow_se.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_shadow_sw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_shadow_w.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_title_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_title_main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_title_over.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancy_title_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancybox-x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancybox-y.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/images/fancybox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/js/jquery-1.4.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/js/jquery.easing-1.3.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/js/jquery.fancybox-1.3.4.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/js/jquery.mousewheel-3.0.4.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/styles/fancy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/bwslideshow/styles/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnippon/images/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnippon/images/colors_of_nippon_border.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnippon/images/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnippon/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnippon/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnippon/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnippon/preview.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnippon/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnippon/styles/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/css/lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/images/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/images/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/images/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/images/closelabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/images/colors_of_nippon_border.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/images/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/images/next.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/images/nextlabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/images/prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/images/prevlabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/js/builder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/js/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/js/lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/js/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/js/scriptaculous.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/colorsofnipponslideshow/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/green hornet/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/green hornet/js/niftycube.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/green hornet/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/green hornet/preview.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/green hornet/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/green hornet/styles/niftyCorners.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/green hornet/styles/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_loading.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_nav_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_nav_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_shadow_e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_shadow_n.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_shadow_ne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_shadow_nw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_shadow_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_shadow_se.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_shadow_sw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_shadow_w.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_title_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_title_main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_title_over.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/images/fancy_title_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/js/jquery-1.4.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/js/jquery.easing-1.3.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/js/jquery.fancybox-1.3.4.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/js/jquery.mousewheel-3.0.4.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/js/niftycube.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/styles/fancy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/styles/niftyCorners.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/wbslideshow/styles/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/whiteblack/index.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/whiteblack/js/niftycube.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/whiteblack/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/whiteblack/preview.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/whiteblack/settings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/whiteblack/styles/niftyCorners.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/templates/whiteblack/styles/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/test/java/jmjrst/main/RotateImageTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/test/resources/SinglePicture.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/test/resources/piclittle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/test/resources/picture180.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/test/resources/picture270.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/test/resources/picture90.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/test/resources/pictureforRotate.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/test/resources/rotateImage.patch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iMage/src/mockito-extensions/org.mockito.plugins.MockMaker" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/iMage/.indexes/history.index" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/iMage/.indexes/history.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/iMage/.markers" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/iMage/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/jmjrst.main/.markers" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/jmjrst.main/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1582304053.index" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1582304053.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/jmjrst.main.lifecyclemapping" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/jmjrst.main.lifecyclemapping" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/6bf135f5daba2cc0bce79f4293afdabb/segments.gen" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/6bf135f5daba2cc0bce79f4293afdabb/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.jdt/iMage.container" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.jdt/iMage.container" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.jdt/jmjrst.main.container" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.jdt/jmjrst.main.container" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/segments.gen" afterPath="$PROJECT_DIR$/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/applications-graphics.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/applications-graphics.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/folder.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/folder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/go-jump-mirror.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/go-jump-mirror.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/go-jump.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/go-jump.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/help-browser.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/help-browser.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/image-missing.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/image-missing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/image-x-generic.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/image-x-generic.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/jmjrst24.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/jmjrst24.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/jmjrst48.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/jmjrst48.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/media-playback-start.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/media-playback-start.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/package-x-generic.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/package-x-generic.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/preferences-desktop-theme.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/preferences-desktop-theme.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/preferences-system.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/preferences-system.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/system-log-out.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/system-log-out.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/system-software-update.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/system-software-update.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/text-html.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/text-html.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/user-desktop.png" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/resources/icons/user-desktop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/test/resources/picture.jpg" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/test/resources/picture.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/target/iMage-0.0.1-SNAPSHOT-src.zip" afterPath="$PROJECT_DIR$/iMage/target/iMage-0.0.1-SNAPSHOT-src.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.log" afterPath="$PROJECT_DIR$/.metadata/.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/net.sf.eclipsecs.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/net.sf.eclipsecs.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.core.prefs" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.search/dialog_settings.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.search/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/version.ini" afterPath="$PROJECT_DIR$/.metadata/version.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.recommenders/caches/identified-project-coordinates.json" afterPath="$PROJECT_DIR$/.recommenders/caches/identified-project-coordinates.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/Geometrify/src/main/java/org/iMage/geometrify/RandomPointGenerator.java" afterPath="$PROJECT_DIR$/iMage/Geometrify/src/main/java/org/iMage/geometrify/RandomPointGenerator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/Geometrify/src/main/java/org/iMage/geometrify/Triangle.java" afterPath="$PROJECT_DIR$/iMage/Geometrify/src/main/java/org/iMage/geometrify/Triangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/Geometrify/src/main/java/org/iMage/geometrify/TrianglePictureFilter.java" afterPath="$PROJECT_DIR$/iMage/Geometrify/src/main/java/org/iMage/geometrify/TrianglePictureFilter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/.classpath" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/.gitignore" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/checkstyle.launch" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/checkstyle.launch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/integration-test.launch" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/integration-test.launch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/options.properties" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/options.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/pom.xml" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/assembly/src.xml" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/assembly/src.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/java/org/jis/Main.java" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/java/org/jis/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/java/org/jis/Messages.java" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/java/org/jis/Messages.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/java/org/jis/generator/Generator.java" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/java/org/jis/generator/Generator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/java/org/jis/view/Menu.java" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/main/java/org/jis/view/Menu.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/jmjrst.main/src/test/resources/checkstyle_swt1.xml" afterPath="$PROJECT_DIR$/iMage/jmjrst.main/src/test/resources/checkstyle_swt1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/pom.xml" afterPath="$PROJECT_DIR$/iMage/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/src/assembly/src.xml" afterPath="$PROJECT_DIR$/iMage/src/assembly/src.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/target/changelog.html" afterPath="$PROJECT_DIR$/iMage/target/changelog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iMage/target/changelog.xml" afterPath="$PROJECT_DIR$/iMage/target/changelog.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1924" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SWT2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SWT2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SWT2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SWT2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iMage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SWT2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SWT2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iMage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Geometrify-cli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SWT2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SWT2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iMage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Geometrify-cli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iMage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geometrify" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SWT2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SWT2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iMage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Geometrify-cli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad9baa5d-acdd-452b-b878-700cd4b21e5b" name="Default" comment="" />
+      <created>1496748173757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496748173757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1924" height="1047" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

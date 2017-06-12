@@ -1,0 +1,91 @@
+package org.iMage.geometrify;
+
+import java.awt.Color;
+import java.awt.Point;
+
+/**
+ * A triangle.
+ *
+ * @author Dominic Ziegler, Martin Blersch
+ * @version 1.0
+ */
+public class Triangle implements IPrimitive {
+	
+	private Point a;
+	private Point b;
+	private Point c;
+
+	/**
+	 * Creates a new triangle from the given vertices.
+	 *
+	 * @param a
+	 *            the first vertex
+	 * @param b
+	 *            the second vertex
+	 * @param c
+	 *            the third vertex
+	 */
+	public Triangle(Point a, Point b, Point c) {
+		this.a = a;
+		this.b = b;
+		this.c = c;
+	}
+
+	@Override
+	public boolean isInsidePrimitive(Point p) {
+		//getting the coordinates
+		double ax = (double) a.getX();
+		double ay = (double) a.getY();
+		double bx = (double) b.getX();
+		double by = (double) b.getY();
+		double cx = (double) c.getX();
+		double cy = (double) c.getY();
+		
+		double px = (double) p.getX();
+		double py = (double) p.getY();
+		
+		//calculating the area of the ABC triangle
+		double area = Math.abs(ax*(by-cy) + bx*(cy-ay) + cx*(ay-by)) / 2;
+		
+		//area of ABP triangle
+		double ABParea = Math.abs(ax*(by-py) + bx*(py-ay) + px*(ay-by)) / 2;
+		
+		//area of APC triangle
+		double APCarea = Math.abs(ax*(py-cy) + px*(cy-ay) + cx*(ay-py)) / 2;
+		
+		//area of APC triangle
+		double PBCarea = Math.abs(px*(by-cy) + bx*(cy-py) + cx*(py-by)) / 2;
+				
+		//iF the areas are equal
+		if (ABParea + APCarea + PBCarea == area ) {
+		return true;
+		}
+		
+		else  {
+		return false;
+		}
+	}
+
+	@Override
+	public BoundingBox getBoundingBox() {
+		/*
+		 * YOUR SOLUTION HERE
+		 */
+		return null;
+	}
+
+	@Override
+	public Color getColor() {
+		/*
+		 * YOUR SOLUTION HERE
+		 */
+		return null;
+	}
+
+	@Override
+	public void setColor(Color c) {
+		/*
+		 * YOUR SOLUTION HERE
+		 */
+	}
+}

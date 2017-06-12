@@ -65,9 +65,6 @@ public class Main extends JFrame {
   private Options           o;
   private Preview           preview          = null;
   private JScrollPane       jsp              = new JScrollPane();
-  /*
-   * @param JTextPane it is a JTextPane
-   */
   public JTextPane          text             = new JTextPane();
   public List               list             = new List(preview);
   public Menu               menu             = null;
@@ -180,7 +177,7 @@ public class Main extends JFrame {
     jsplit.setOneTouchExpandable(true);
     jsplit.setResizeWeight(0.7D);
 
-    if (o.isTextbox())
+    if(o.isTextbox())
     {
       c.add(jsplit, BorderLayout.CENTER);
     }
@@ -202,9 +199,8 @@ public class Main extends JFrame {
 
   public static void main(String[] args)
   {
-    if (args.length == 0) {
-		new Main();
-	} else
+    if (args.length == 0) new Main();
+    else
     {
       Messages mes = new Messages(Locale.ENGLISH);
       if (args.length == 1 && args[0].equalsIgnoreCase(mes.getString("Main.3")))
@@ -237,9 +233,7 @@ public class Main extends JFrame {
         System.out.println(args[i]);
         try
         {
-          if (args[i].substring(0, 4).equalsIgnoreCase(mes.getString("hmax"))) {
-        	  hmax = args[i].substring(args[i].lastIndexOf(mes.getString("=")) + 1, args[i].length()).trim();
-		}
+          if (args[i].substring(0, 4).equalsIgnoreCase(mes.getString("hmax"))) hmax = args[i].substring(args[i].lastIndexOf(mes.getString("=")) + 1, args[i].length()).trim();
           if (args[i].substring(0, 4).equalsIgnoreCase(mes.getString("vmax"))) vmax = args[i].substring(args[i].lastIndexOf(mes.getString("=")) + 1, args[i].length()).trim();
           if (args[i].substring(0, 5).equalsIgnoreCase(mes.getString("input"))) input = args[i].substring(args[i].lastIndexOf(mes.getString("=")) + 1, args[i].length()).trim();
           if (args[i].substring(0, 6).equalsIgnoreCase(mes.getString("output"))) output = args[i].substring(args[i].lastIndexOf(mes.getString("=")) + 1, args[i].length()).trim();

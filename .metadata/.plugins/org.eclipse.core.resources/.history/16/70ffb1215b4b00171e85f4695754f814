@@ -1,0 +1,12 @@
+public class Rocksender extends Radiosender {
+
+	/**
+	 * 
+	 * @param band
+	 */
+	public Grungeband spiele(Rockband band) {
+		// TODO - implement Rocksender.spiele
+		throw new UnsupportedOperationException();
+	}
+
+}

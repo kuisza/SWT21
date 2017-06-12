@@ -15,14 +15,19 @@
  */
 package org.jis.view;
 
+import java.awt.event.ActionEvent;
 import java.net.URL;
+import java.util.List;
 
+import javax.swing.AbstractAction;
 import javax.swing.ImageIcon;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.UIManager;
 
+import org.iMage.plugins.JmjrstPlugin;
+import org.iMage.plugins.PluginManager;
 import org.jis.Main;
 import org.jis.listner.MenuListner;
 
@@ -49,6 +54,8 @@ public class Menu extends JMenuBar {
   public JMenuItem          look_motif;
   public JMenuItem          look_gtk;
   public JMenuItem          update_check;
+  public JMenu			plugins;
+
 
   /**
    * @param m
@@ -60,7 +67,7 @@ public class Menu extends JMenuBar {
     JMenu option = new JMenu(m.mes.getString("Menu.1"));
     JMenu optionen_look = new JMenu(m.mes.getString("Menu.2"));
     JMenu about = new JMenu(m.mes.getString("Menu.3"));
-
+    
     gener = new JMenuItem(m.mes.getString("Menu.4"));
     URL url = ClassLoader.getSystemResource("icons/media-playback-start.png");
     gener.setIcon(new ImageIcon(url));
@@ -75,6 +82,8 @@ public class Menu extends JMenuBar {
     gallerie = new JMenuItem(m.mes.getString("Menu.14"));
     url = ClassLoader.getSystemResource("icons/text-html.png");
     gallerie.setIcon(new ImageIcon(url));
+    
+    plugins = new JMenu("Load-Plugin");
 
     exit = new JMenuItem(m.mes.getString("Menu.5"));
     url = ClassLoader.getSystemResource("icons/system-log-out.png");
@@ -103,9 +112,44 @@ public class Menu extends JMenuBar {
     zippen.setEnabled(false);
     gallerie.setEnabled(false);
 
+    MenuListner al = new MenuListner(m, this);
+    
     datei.add(gener);
     datei.add(zippen);
     datei.add(gallerie);
+    datei.add(plugins);
+    
+    
+    List<JmjrstPlugin> pluginloads = PluginManager.getPlugins();
+    
+    if (pluginloads.size() != 0) {
+    
+   for (JmjrstPlugin theplug : pluginloads) {
+	   			JMenu theplugmenu = new JMenu(theplug.getName());
+	   		    plugins.add(theplugmenu);
+	   		    JMenuItem start = new JMenuItem(new AbstractAction("Start") {
+	   		    	public void actionPerformed(ActionEvent e) {
+	   		         theplug.run();
+	   		     }
+	   		    });
+	   		    theplugmenu.add(start);
+	   		    
+	   		   if( theplug.isConfigurable()) {
+	   			JMenuItem conf = new JMenuItem(new AbstractAction("Configure"){
+	   		    	public void actionPerformed(ActionEvent e) {
+		   		         theplug.configure();
+		   		     }
+		   		    });
+		   		   theplugmenu.add(conf);
+	   		   }
+   		}
+    }
+   else {
+	   plugins.add(new JMenuItem("(No plug-ins available!)")); 
+	   
+   }
+    
+    
     datei.addSeparator();
     datei.add(exit);
     option.add(optionen_look);
@@ -117,7 +161,7 @@ public class Menu extends JMenuBar {
     this.add(option);
     this.add(about);
 
-    MenuListner al = new MenuListner(m, this);
+   
     exit.addActionListener(al);
     gener.addActionListener(al);
     zippen.addActionListener(al);
@@ -131,6 +175,7 @@ public class Menu extends JMenuBar {
     look_motif.addActionListener(al);
     look_gtk.addActionListener(al);
     update_check.addActionListener(al);
+    
 
     UIManager.LookAndFeelInfo uii[] = UIManager.getInstalledLookAndFeels();
     for (int i = 0; i < uii.length; i++)

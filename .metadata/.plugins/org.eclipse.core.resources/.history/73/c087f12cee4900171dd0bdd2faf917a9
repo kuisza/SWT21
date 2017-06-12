@@ -1,0 +1,14 @@
+package org.iMage.plugins;
+
+import java.util.List;
+
+public class Test {
+	public static void main(String[] args) {
+		 List<JmjrstPlugin> pluginloads = PluginManager.getPlugins();
+		 
+		 for ( JmjrstPlugin p : pluginloads) {
+			 System.out.print(p.getName());
+		 }
+	}
+
+}

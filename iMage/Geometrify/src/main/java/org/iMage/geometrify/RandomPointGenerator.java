@@ -1,6 +1,7 @@
 package org.iMage.geometrify;
 
 import java.awt.Point;
+import java.util.Random;
 
 /**
  * Provides an infinite source of points at random coordinates within a given
@@ -10,6 +11,11 @@ import java.awt.Point;
  * @version 1.0
  */
 public class RandomPointGenerator implements IPointGenerator {
+	
+	private int width;
+	private int height;
+	private Random rand = new Random();
+
 
 	/**
 	 * Constructs the generator for points within the specified coordinate
@@ -21,16 +27,15 @@ public class RandomPointGenerator implements IPointGenerator {
 	 *            the maximum y coordinate
 	 */
 	public RandomPointGenerator(int width, int height) {
-		/*
-		 * YOUR SOLUTION HERE
-		 */
+		this.width = width;
+		this.height = height;
 	}
 
 	@Override
 	public Point nextPoint() {
-		/*
-		 * YOUR SOLUTION HERE
-		 */
-		return null;
+		Random rand = new Random();
+		return new Point(rand.nextInt(width),
+				rand.nextInt(height));
+
 	}
 }

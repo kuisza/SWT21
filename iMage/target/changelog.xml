@@ -1,4 +1,28 @@
 <changelog><commit>
+					<time>1495277110</time>
+					<sha1>42048b9818d0d086f2b4ad4469fbc191aa2012d3</sha1>
+					<author>kuisza</author>
+					<branches>refs/heads/master</branches>
+					<msg>missing Javadoc comment for method TrianglePictureFilter added</msg>
+				</commit><commit>
+					<time>1495277018</time>
+					<sha1>1cb89304d8c2f1c1c0314156289ac0f53c71bef7</sha1>
+					<author>kuisza</author>
+					<branches>refs/heads/master</branches>
+					<msg>missing javadoc comment to class TrianglePicture</msg>
+				</commit><commit>
+					<time>1495276355</time>
+					<sha1>bcae5fd7ac79a7c74b1ea933b7f06585eae1c281</sha1>
+					<author>kuisza</author>
+					<branches>refs/heads/master</branches>
+					<msg>Geometrify added</msg>
+				</commit><commit>
+					<time>1495007974</time>
+					<sha1>70005b044aab5549f12ff6dc77035273e0edc2fa</sha1>
+					<author>kuisza</author>
+					<branches>refs/heads/master</branches>
+					<msg>lastenheft added</msg>
+				</commit><commit>
 					<time>1493766869</time>
 					<sha1>29827b3c61f2109ac17dc63ea73bd84cf62ba477</sha1>
 					<author>kuisza</author>

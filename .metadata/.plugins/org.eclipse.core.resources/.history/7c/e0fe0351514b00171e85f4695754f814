@@ -1,0 +1,73 @@
+package org.iMage.plugins;
+
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+
+import javax.swing.JOptionPane;
+
+import org.iMage.plugins.JmjrstPlugin;
+import org.iMage.plugins.PluginPriority;
+import org.jis.Main;
+import org.kohsuke.MetaInfServices;
+
+@MetaInfServices(JmjrstPlugin.class)
+public class HalloWeenPlugin extends JmjrstPlugin{
+	
+	protected PluginPriority priority;
+	protected String menutext = "iMage: Ihr freundlicher Nutzerdatensammler seit 2016!";
+	protected String name = "HelloWorldPlugin";
+	protected Main main;
+	boolean configurable = true;
+	String timeStamp = new SimpleDateFormat("dd/MM/yyy HH:mm:ss").format(Calendar.getInstance().getTime());
+
+	@Override
+	public void setPriority(PluginPriority priority) {
+		this.priority = priority;
+		
+	}
+
+	@Override
+	public PluginPriority getPriority() {
+		return this.priority;
+	}
+
+	@Override
+	public String getMenuText() {
+		return menutext;
+	}
+
+	@Override
+	public String getName() {
+		return name;
+	}
+
+	@Override
+	public void init(Main main) {
+		this.main = main;
+		
+	}
+
+	@Override
+	public void run() {
+		JOptionPane.showMessageDialog(null,
+				"Ueberwachung laeuft seit " +timeStamp,
+			    this.getName(),
+			    JOptionPane.ERROR_MESSAGE);
+		
+	}
+
+	@Override
+	public boolean isConfigurable() {
+		return configurable;
+	}
+
+	@Override
+	public void configure() {
+		JOptionPane.showMessageDialog(null, this.getMenuText() + "  " + "Ueberwache Nutzer " + System.getProperty("user.name") + "!",
+			    this.getName(),
+			    JOptionPane.PLAIN_MESSAGE);
+			
+		
+	}
+
+}
