@@ -1,4 +1,16 @@
 <changelog><commit>
+					<time>1497227578</time>
+					<sha1>54c28ca9385304bbb6a63900057149d918e42e1e</sha1>
+					<author>kuisza</author>
+					<branches>refs/heads/master</branches>
+					<msg>iLustrate added</msg>
+				</commit><commit>
+					<time>1497227224</time>
+					<sha1>f3ef43efd4df36a042d6451e836b9aab967b13fb</sha1>
+					<author>kuisza</author>
+					<branches>refs/heads/master</branches>
+					<msg>no iLustrate</msg>
+				</commit><commit>
 					<time>1495277110</time>
 					<sha1>42048b9818d0d086f2b4ad4469fbc191aa2012d3</sha1>
 					<author>kuisza</author>
