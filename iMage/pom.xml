@@ -22,7 +22,8 @@
 		<!-- add new modules here -->
 		<module>prizm-plugin</module>
 		<module>iMage.bundle</module>
-	</modules>
+ 		<module>iMage.iLustrate</module>
+  </modules>
 	
  <dependencies>	  
   <dependency>
