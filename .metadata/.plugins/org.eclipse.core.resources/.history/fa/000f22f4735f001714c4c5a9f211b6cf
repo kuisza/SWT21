@@ -1,0 +1,53 @@
+package org.iMage.geometrify;
+
+import java.awt.Color;
+import java.awt.Point;
+
+public class Circle implements IPrimitive{
+	private BoundingBox boundingBox;
+	private Color color;
+	//	Alternative Implementierung:
+	//	private Polygon polygon;
+	protected Point x;
+	protected int height;
+	
+	
+	/**
+	 * Creates a new circle from the given vertices.
+	 *
+	 * @param x the centre of the circle
+	 * @param height the radius of the circle
+	 */
+	public Circle(Point x, int height) {
+		Point upperLeft = new Point(x.x-height , x.y+height);
+		Point lowerRight = new Point(x.x+height , x.y - height);
+
+		boundingBox = new BoundingBox(upperLeft, lowerRight);
+		this.x = x;
+		this.height = height;
+	}
+	
+	@Override
+	public BoundingBox getBoundingBox() {
+		return null;
+	}
+
+	@Override
+	public Color getColor() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean isInsidePrimitive(Point arg0) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void setColor(Color arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -4,19 +4,15 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="swt1.ub4.a3-2"/>
 			<item value="swt1"/>
-			<item value="swt1.ub3.a2"/>
-			<item value="swt1.ub3.a4"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="iMage.bundle"/>
+			<item value="iMage.geometrify-gui"/>
 			<item value="iMage"/>
-			<item value="prizm-plugin"/>
-			<item value="iMage.prizm-plugin "/>
-			<item value="Geometrify-cli"/>
-			<item value="Geometrify"/>
+			<item value="geometrify-gui"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -72,6 +68,10 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="iMage.geometrify-gui"/>
+			<item value="geometrify-gui"/>
+			<item value="swingdemo"/>
+			<item value="iMage.iLustrate"/>
 			<item value="iMage.bundle"/>
 			<item value="prizm-plugin"/>
 			<item value="iMage.prizm-plugin "/>
@@ -89,6 +89,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\bedaa\OneDrive\Documents\SWT2\iMage"/>
 			<item value="C:\Users\bedaa\OneDrive\Documents\SWT2\iMage\jmjrst.main\pom.xml"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -102,13 +103,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.iMage.bundle"/>
+			<item value="org.iMage.geometrify.gui"/>
 		</list>
 		<list key="groupId">
 			<item value="swt1"/>
 		</list>
 		<list key="artifactId">
-			<item value="iMage.bundle"/>
+			<item value="iMage.geometrify-gui"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

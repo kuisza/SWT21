@@ -17,6 +17,8 @@ package org.jis.view;
 
 import java.awt.event.ActionEvent;
 import java.net.URL;
+import java.util.Collections;
+import java.util.Iterator;
 import java.util.List;
 
 import javax.swing.AbstractAction;
@@ -121,10 +123,12 @@ public class Menu extends JMenuBar {
     
     
     List<JmjrstPlugin> pluginloads = PluginManager.getPlugins();
+    Collections.sort(pluginloads);
     
     if (pluginloads.size() != 0) {
     
-   for (JmjrstPlugin theplug : pluginloads) {
+   for (Iterator<JmjrstPlugin> iter = pluginloads.iterator(); iter.hasNext();) {
+	   			JmjrstPlugin theplug = iter.next();
 	   			JMenu theplugmenu = new JMenu(theplug.getName());
 	   		    plugins.add(theplugmenu);
 	   		    JMenuItem start = new JMenuItem(new AbstractAction("Start") {

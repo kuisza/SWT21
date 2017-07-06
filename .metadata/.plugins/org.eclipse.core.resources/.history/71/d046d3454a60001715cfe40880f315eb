@@ -1,0 +1,133 @@
+package org.iMage.geometrify;
+
+import java.awt.Color;
+import java.awt.Point;
+import java.awt.image.BufferedImage;
+
+public class EllipsePictureFilter extends AbstractPrimitivePictureFilter{
+	
+	private static final int HEX_FF = 0xff;
+	
+	public EllipsePictureFilter() {
+		
+	}
+	
+	public EllipsePictureFilter(IPointGenerator pointGenerator) {
+		super(pointGenerator);
+	}
+	
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return "EllipsePictureFilter";
+	}
+
+	@Override
+	protected Color calculateColor(BufferedImage original, IPrimitive primitive) {
+		int bandwidth = (original.getColorModel().hasAlpha()) ? 4 : 3;
+
+		int width = original.getWidth();
+		int height = original.getHeight();
+
+		Point start = primitive.getBoundingBox().getUpperLeftCorner();
+		Point end = primitive.getBoundingBox().getLowerRightCorner();
+
+		int numPixels = 0;
+
+		int red = 0;
+		int green = 0;
+		int blue = 0;
+		int alpha = 0;
+
+		int wStart = Math.max(0, start.x);
+		int wEnd = Math.min(width - 1, end.x);
+		int hStart = Math.max(0, start.y);
+		int hEnd = Math.min(height - 1, end.y);
+		int[] imgPixels = new int[width * height * bandwidth];
+
+		original.getRaster().getPixels(0, 0, width, height, imgPixels);
+
+		Point currPixel = new Point();
+
+		for (int y = hStart; y <= hEnd; y++) {
+			for (int x = wStart; x <= wEnd; x++) {
+				currPixel.setLocation(x, y);
+				if (primitive.isInsidePrimitive(currPixel)) {
+					int pixelIndex = (y * width + x) * bandwidth;
+					numPixels++;
+
+					if (bandwidth == 4) {
+						alpha += imgPixels[pixelIndex + 3];
+
+					}
+					red += imgPixels[pixelIndex + 2];
+					green += imgPixels[pixelIndex + 1];
+					blue += imgPixels[pixelIndex];
+
+				}
+			}
+		}
+
+		// normalize color values
+		if (numPixels > 0) {
+			alpha = alpha / numPixels;
+			red = red / numPixels;
+			green = green / numPixels;
+			blue = blue / numPixels;
+		}
+		if (original.getColorModel().hasAlpha()) {
+			return new Color(red, green, blue, alpha);
+		} else {
+			return new Color(red, green, blue);
+		}
+	}
+
+	@Override
+	public BufferedImage apply(BufferedImage image, int numberOfIterations, int numberOfSamples) {
+		int width = image.getWidth();
+		int height = image.getHeight();
+
+		// construct "empty" image
+		BufferedImage result = new BufferedImage(width, height, image.getType());
+
+		for (int i = 0; i < numberOfIterations; i++) {
+			int bestDifference = Integer.MAX_VALUE;
+			IPrimitive bestPrimitive = null;
+
+			for (int s = 0; s < numberOfSamples; s++) {
+				IPrimitive sample = generatePrimitive();
+				sample.setColor(calculateColor(image, sample));
+				int difference = calculateDifference(image, result, sample);
+
+				if (difference <= bestDifference) {
+					bestDifference = difference;
+					bestPrimitive = sample;
+				}
+			}
+
+			addToImage(result, bestPrimitive);
+		}
+
+		return result;
+	}
+
+	@Override
+	protected IPrimitive generatePrimitive() {
+		// TODO Auto-generated method stub
+		Point p = (pointGenerator.nextPoint());
+		return new Ellipse(p, pointGenerator.nextHeight(p), pointGenerator.nextPoint());
+	}
+
+	@Override
+	protected int calculateDifference(BufferedImage original, BufferedImage current, IPrimitive primitive) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	protected void addToImage(BufferedImage image, IPrimitive primitive) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

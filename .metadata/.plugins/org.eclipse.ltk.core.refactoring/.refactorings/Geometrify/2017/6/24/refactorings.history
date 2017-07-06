@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TriangleTest.java&apos; to &apos;Geometrify/test/java/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;Geometrify&apos;&#x0D;&#x0A;- Destination element: &apos;Geometrify/test/java/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;TriangleTest.java&apos;" description="Copy compilation unit" destination="/test\/java&lt;" element1="/test\/java&lt;{TriangleTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1497529443847" units="1" version="1.0"/>
+</session>

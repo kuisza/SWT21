@@ -1,0 +1,10 @@
+package org.iMage.geometrify;
+
+public class Test {
+	public static void main(String[] args) {
+		System.out.println(FilterManager.getPlugins());
+		for (AbstractPrimitivePictureFilter p : FilterManager.getPlugins()) {
+			System.out.println(p.getName());
+		}
+	}
+}

@@ -1,0 +1,33 @@
+package org.iMage.geometrify;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.ServiceLoader;
+import org.iMage.geometrify.AbstractPrimitivePictureFilter;
+
+
+public final class FilterManager {
+	
+	FilterManager() {
+	}
+
+	
+	public static void main(String[] args) {
+		 
+		
+		ServiceLoader<AbstractPrimitivePictureFilter> serviceLoader =
+				ServiceLoader.load(AbstractPrimitivePictureFilter.class);
+				List<AbstractPrimitivePictureFilter> p = new ArrayList<>();
+				for (final AbstractPrimitivePictureFilter plugin : serviceLoader) {
+				p.add(plugin);
+				System.out.println(plugin.getName());;
+				
+				}
+				System.out.println(p);
+				
+				// Sortieren mit dem Comparator aus JmjrstPlugin
+				//Collections.sort(p);
+				
+	}
+
+}

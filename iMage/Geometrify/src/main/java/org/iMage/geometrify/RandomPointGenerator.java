@@ -3,28 +3,25 @@ package org.iMage.geometrify;
 import java.awt.Point;
 import java.util.Random;
 
+import org.iMage.geometrify.IPointGenerator;
+
 /**
- * Provides an infinite source of points at random coordinates within a given
- * range.
- *
+ * Provides an infinite source of points at random coordinates within a given range.
+ * 
  * @author Dominic Ziegler
  * @version 1.0
  */
 public class RandomPointGenerator implements IPointGenerator {
-	
 	private int width;
 	private int height;
+	
 	private Random rand = new Random();
-
-
+	
 	/**
-	 * Constructs the generator for points within the specified coordinate
-	 * space.
-	 *
-	 * @param width
-	 *            the maximum x coordinate
-	 * @param height
-	 *            the maximum y coordinate
+	 * Constructs the generator for points within the specified coordinate space.
+	 * 
+	 * @param width  the maximum x coordinate
+	 * @param height the maximum y coordinate
 	 */
 	public RandomPointGenerator(int width, int height) {
 		this.width = width;
@@ -33,9 +30,30 @@ public class RandomPointGenerator implements IPointGenerator {
 
 	@Override
 	public Point nextPoint() {
-		Random rand = new Random();
-		return new Point(rand.nextInt(width),
-				rand.nextInt(height));
-
+		return new Point(rand.nextInt(width), rand.nextInt(height));
+	}
+	
+	@Override
+	public int nextHeight(Point p) {
+		Point k = this.nextPoint();
+		int x = Math.abs(k.x-p.x);
+		int y = Math.abs(k.y-p.y);
+		return (int) Math.abs(Math.sqrt(x*x + y*y));
+	}
+	
+	@Override
+	public int nextWidth(Point p) {
+		Point k = this.nextPoint();
+		int x = Math.abs(k.x-p.x);
+		int y = Math.abs(k.y-p.y);
+		return (int) Math.abs(Math.sqrt(x*x + y*y));
+	}
+	
+	@Override
+	public int nextRadious(Point p) {
+		Point k = this.nextPoint();
+		int x = Math.abs(k.x-p.x);
+		int y = Math.abs(k.y-p.y);
+		return (int) Math.abs(Math.sqrt(x*x + y*y));
 	}
 }

@@ -1,0 +1,48 @@
+package org.iMage.plugins;
+
+import java.util.Iterator;
+import java.util.List;
+import java.util.ServiceLoader;
+
+
+public class Test {
+	public static void main(String[] args) {
+		
+		//ServiceLoader<JmjrstPlugin> ld = ServiceLoader.load(JmjrstPlugin.class);
+	//	JmjrstPlugin plugin = ld.iterator().next();
+	//	System.out.println(plugin.getName());
+		
+		
+		
+		
+
+		List<JmjrstPlugin> pluginloads = PluginManager.getPlugins();
+		 
+	/*for ( JmjrstPlugin p : pluginloads) {
+			 System.out.println(p.getName());
+		}		*/
+		
+			for(Iterator<JmjrstPlugin> iter = pluginloads.iterator(); iter.hasNext();) {
+				JmjrstPlugin jm = iter.next();
+				System.out.println(jm.getName());
+			}
+			
+		
+		
+	
+		
+		
+
+}
+
+	
+	public static void printit(Iterator iterator) {
+		
+		
+		while(iterator.hasNext()) {
+			JmjrstPlugin p = (JmjrstPlugin) iterator.next();
+			
+			 System.out.println(p.getName());
+		}
+	}
+}

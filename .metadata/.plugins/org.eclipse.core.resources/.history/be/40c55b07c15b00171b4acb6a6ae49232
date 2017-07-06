@@ -1,0 +1,37 @@
+package org.iMage.plugins;
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class PluginManagerIter<JmjrstPlugin> implements Iterable<JmjrstPlugin>{
+	
+	private ArrayList<JmjrstPlugin> data;
+	
+	public PluginManagerIter(ArrayList<JmjrstPlugin> pluglist) {
+		data = pluglist;
+	}
+
+	@Override
+	public Iterator<JmjrstPlugin> iterator() {
+		 Iterator<JmjrstPlugin> it = new Iterator<JmjrstPlugin>() {
+
+	            private int index = 0;
+	           
+	            @Override
+	            public boolean hasNext() {
+	                return index < data.size();
+	            }
+
+	            @Override
+	            public JmjrstPlugin next() {
+	                return data.get(index);
+	            }
+
+	            @Override
+	            public void remove() {
+	                throw new UnsupportedOperationException();
+	            }
+	        };
+	        return it;
+	    }
+
+}

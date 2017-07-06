@@ -80,6 +80,7 @@ public abstract class JmjrstPlugin implements Comparable<JmjrstPlugin> {
 	 *            the plug-in that we should compare us to
 	 * 
 	 */
+	
 	@Override
 	public int compareTo(JmjrstPlugin otherPlugin) {
 		if (this.getPriority() == null) {

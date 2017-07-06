@@ -23,7 +23,9 @@
 		<module>prizm-plugin</module>
 		<module>iMage.bundle</module>
  		<module>iMage.iLustrate</module>
-  </modules>
+ 		<module>swingdemo</module>
+ 		<module>iMage.geometrify-gui</module>
+	</modules>
 	
  <dependencies>	  
   <dependency>

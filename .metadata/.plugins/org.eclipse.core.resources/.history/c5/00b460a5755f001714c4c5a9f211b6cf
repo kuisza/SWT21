@@ -1,0 +1,38 @@
+package org.iMage.geometrify;
+
+import java.awt.Color;
+import java.awt.Point;
+
+public class Square implements IPrimitive{
+	private BoundingBox boundingBox;
+	private Color color;
+	//	Alternative Implementierung:
+	//	private Polygon polygon;
+	protected Point a, b, c;
+	
+	
+	@Override
+	public BoundingBox getBoundingBox() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Color getColor() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean isInsidePrimitive(Point arg0) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void setColor(Color arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

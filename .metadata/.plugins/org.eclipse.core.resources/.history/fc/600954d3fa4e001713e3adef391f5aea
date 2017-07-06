@@ -1,5 +1,0 @@
-package iMage.bundle;
-
-public class App {
-	org.jis.Main.main(args);
-}

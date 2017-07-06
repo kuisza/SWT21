@@ -1,4 +1,10 @@
 <changelog><commit>
+					<time>1497229257</time>
+					<sha1>2797b2c791d61fd97888b70477b91e21f4dc5b42</sha1>
+					<author>kuisza</author>
+					<branches>refs/heads/master</branches>
+					<msg>iLustrate added</msg>
+				</commit><commit>
 					<time>1497227578</time>
 					<sha1>54c28ca9385304bbb6a63900057149d918e42e1e</sha1>
 					<author>kuisza</author>

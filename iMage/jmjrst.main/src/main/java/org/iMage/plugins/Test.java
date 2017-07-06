@@ -1,5 +1,7 @@
 package org.iMage.plugins;
 
+import java.util.Collections;
+import java.util.Iterator;
 import java.util.List;
 import java.util.ServiceLoader;
 
@@ -15,11 +17,34 @@ public class Test {
 		
 		
 
-		 List<JmjrstPlugin> pluginloads = PluginManager.getPlugins();
+		List<JmjrstPlugin> pluginloads = PluginManager.getPlugins();
+		Collections.sort(pluginloads);
 		 
-	for ( JmjrstPlugin p : pluginloads) {
+	/*for ( JmjrstPlugin p : pluginloads) {
+			 System.out.println(p.getName());
+		}		*/
+		
+			for(Iterator<JmjrstPlugin> iter = pluginloads.iterator(); iter.hasNext();) {
+				JmjrstPlugin jm = iter.next();
+				System.out.println(jm.getName());
+			}
+			
+		
+		
+	
+		
+		
+
+}
+
+	
+	public static void printit(Iterator iterator) {
+		
+		
+		while(iterator.hasNext()) {
+			JmjrstPlugin p = (JmjrstPlugin) iterator.next();
+			
 			 System.out.println(p.getName());
 		}
 	}
-
 }

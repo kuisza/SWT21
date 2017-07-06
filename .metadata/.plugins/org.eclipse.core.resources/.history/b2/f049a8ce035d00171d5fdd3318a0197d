@@ -1,0 +1,9 @@
+package org.iMage.geometrify;
+
+import java.awt.image.BufferedImage;
+
+public abstract class Filter1 {
+
+	//the apply method
+	public abstract BufferedImage apply(BufferedImage image, int numberOfIterations, int numberOfSamples);
+}

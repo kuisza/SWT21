@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Geometrify&apos; to &apos;iMage.Geometrify&apos;&#x0D;&#x0A;- Original element: &apos;Geometrify&apos;&#x0D;&#x0A;- Renamed element: &apos;Geometrify&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Geometrify&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Geometrify" name="iMage.Geometrify" references="true" stamp="1499202415468" version="1.0"/>
+</session>

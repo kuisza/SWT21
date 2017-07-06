@@ -1,0 +1,55 @@
+package org.iMage.geometrify;
+
+import java.awt.Color;
+import java.awt.Point;
+
+public class NonAxisAllignedRectangle implements IPrimitive{
+	private BoundingBox boundingBox;
+	private Color color;
+	//	Alternative Implementierung:
+	//	private Polygon polygon;
+	protected Point x;
+	protected int height;
+	
+	
+	/**
+	 * Creates a new circle from the given vertices.
+	 *
+	 * @param x the centre of the circle
+	 * @param height the radius of the circle
+	 */
+	public NonAxisAllignedRectangle(Point x, int height) {
+		Point upperLeft = new Point(x.x-height , x.y-height);
+		Point lowerRight = new Point(x.x+height , x.y+height);
+
+		boundingBox = new BoundingBox(upperLeft, lowerRight);
+		this.x = x;
+		this.height = height;
+	}
+	
+	@Override
+	public BoundingBox getBoundingBox() {
+		return boundingBox;
+	}
+
+	@Override
+	public Color getColor() {
+		return color;
+	}
+
+	@Override
+	public boolean isInsidePrimitive(Point p) {
+		boolean b1, b2;
+		
+		int a = Math.abs(p.x-x.x);
+		int b = Math.abs(p.y-x.y);
+		return a*a+b*b < height;
+	}
+
+	@Override
+	public void setColor(Color c) {
+		color = c;
+		
+	}
+
+}

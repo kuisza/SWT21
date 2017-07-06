@@ -16,7 +16,7 @@ public final class PluginManager {
 	/**
 	 * No constructor for utility class.
 	 */
-	private PluginManager() {
+	PluginManager() {
 	}
 
 	/**
@@ -34,7 +34,20 @@ public final class PluginManager {
 				p.add(plugin);
 				}
 				// Sortieren mit dem Comparator aus JmjrstPlugin
-				Collections.sort(p);
+				//Collections.sort(p);
 				return p;
 	}
+	
+	public static Iterable iterator() {
+		ServiceLoader<JmjrstPlugin> serviceLoader = ServiceLoader.load(JmjrstPlugin.class); 
+		
+	    return serviceLoader;
+		
+	}
+	
+	
+	
+	
+	
+	
 }

@@ -1,0 +1,60 @@
+package org.iMage.geometrify;
+
+import java.awt.Color;
+import java.awt.Point;
+
+public class Ellipse implements IPrimitive{
+	private BoundingBox boundingBox;
+	private Color color;
+	//	Alternative Implementierung:
+	//	private Polygon polygon;
+	protected Point x;
+	protected int height;
+	protected int width;
+	
+	
+	/**
+	 * Creates a new triangle from the given vertices.
+	 *
+	 * @param x centre of the Ellipse
+	 * @param height of the Ellipse
+	 * @param width of the Ellipse
+	 */
+	public Ellipse(Point x, int height, int width) {
+		Point upperLeft = new Point(x.x-height , x.y-width);
+		Point lowerRight = new Point(x.x+height , x.y+width);
+
+		this.x = x;
+		this.height = height;
+		this.width = width;
+	}
+	
+	
+	
+	@Override
+	public BoundingBox getBoundingBox() {
+		// TODO Auto-generated method stub
+		return boundingBox;
+	}
+
+	@Override
+	public Color getColor() {
+		// TODO Auto-generated method stub
+		return color;
+	}
+
+	@Override
+	public boolean isInsidePrimitive(Point p) {
+		int w = Math.abs(x.x-p.x);
+		int h = Math.abs(x.y-p.y);
+		
+		return (((w*w)/(width*width) + (h*h)/(height*height)) < 1);
+	}
+
+	@Override
+	public void setColor(Color c) {
+		color = c;
+		
+	}
+
+}

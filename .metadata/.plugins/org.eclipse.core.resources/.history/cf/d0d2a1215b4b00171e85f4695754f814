@@ -1,6 +1,0 @@
-public class Grungeband extends Rockband {
-
-	public Rocksender sender;
-	protected String mitglieder = {"Chris Cornell"};
-
-}

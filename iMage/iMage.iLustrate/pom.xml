@@ -7,8 +7,8 @@
     <artifactId>iMage</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>swt1.ub3.a3</groupId>
-  <artifactId>iMage.iLustrate</artifactId>
+  <groupId>swt1.ub4.a3</groupId>
+  <artifactId>2056751</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>iMage.iLustrate</name>
   <url>http://maven.apache.org</url>
@@ -22,5 +22,13 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    
+    	<dependency>
+		 <groupId>swt1.ub2.a4</groupId>
+        <artifactId>2056751</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+		</dependency>
+    
   </dependencies>
+  
 </project>

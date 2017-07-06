@@ -1,0 +1,63 @@
+package org.iMage.geometrify;
+
+import java.awt.Color;
+import java.awt.Point;
+
+public class Square implements IPrimitive{
+	private BoundingBox boundingBox;
+	private Color color;
+	//	Alternative Implementierung:
+	//	private Polygon polygon;
+	protected Point a, b, c, d;
+	
+
+	/**
+	 * Creates a new triangle from the given vertices.
+	 *
+	 * @param a
+	 *            the first vertex
+	 * @param b
+	 *            the second vertex
+	 * @param c
+	 *            the third vertex
+	 */
+	public Square(Point a, Point b, Point c, Point d) {
+		Point upperLeft = new Point(Math.min(Math.min(a.x, b.x), Math.min(d.x, c.x)), Math.min(Math.min(a.y, b.y), Math.min(d.y , c.y)));
+		Point lowerRight = new Point(Math.max(Math.max(a.x, b.x), Math.max(d.x, c.x)), Math.max(Math.max(a.y, b.y),  Math.max(d.y, c.y)));
+
+		boundingBox = new BoundingBox(upperLeft, lowerRight);
+		//		Alternative Implementierung:
+		
+		this.a = a;
+		this.b = b;
+		this.c = c;
+		this.d = d;
+	}
+
+	
+	
+	@Override
+	public BoundingBox getBoundingBox() {
+		// TODO Auto-generated method stub
+		return boundingBox;
+	}
+
+	@Override
+	public Color getColor() {
+		// TODO Auto-generated method stub
+		return color;
+	}
+
+	@Override
+	public boolean isInsidePrimitive(Point arg0) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void setColor(Color c) {
+		color = c;
+		
+	}
+
+}

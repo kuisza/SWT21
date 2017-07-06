@@ -14,7 +14,7 @@
   	</dependency>
   	<dependency>
   		<groupId>swt1.ub2.a4</groupId>
-  		<artifactId>iMage.geometrify-2056751</artifactId>
+  		<artifactId>2056751</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   </dependencies>

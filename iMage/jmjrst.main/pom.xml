@@ -7,7 +7,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>2056751</artifactId>
-	<groupId>swt1.ub3.a1</groupId>
+	<groupId>swt1.ub5.a2</groupId>
 	 <version>0.0.1-SNAPSHOT</version>
    <packaging>jar</packaging>
    
@@ -19,6 +19,11 @@
 		<dependency>
 			<groupId>org.mockito</groupId>
 			<artifactId>mockito-all</artifactId>
+		</dependency>
+		<dependency>
+		 <groupId>swt1.ub2.a4</groupId>
+        <artifactId>2056751</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 	

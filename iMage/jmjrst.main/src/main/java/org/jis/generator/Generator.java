@@ -758,5 +758,5 @@ public class Generator {
     g.drawImage(image, transform, null);
 
     return returnImage;
-  }
+  } 
 }

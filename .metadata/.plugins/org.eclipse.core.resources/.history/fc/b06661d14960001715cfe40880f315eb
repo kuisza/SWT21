@@ -1,0 +1,46 @@
+package org.iMage.geometrify;
+
+import java.awt.Color;
+import java.awt.image.BufferedImage;
+
+public class EllipsePictureFilter extends AbstractPrimitivePictureFilter{
+	
+	private static final int HEX_FF = 0xff;
+	
+	@Override
+	public String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	protected Color calculateColor(BufferedImage original, IPrimitive primitive) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public BufferedImage apply(BufferedImage image, int numberOfIterations, int numberOfSamples) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	protected IPrimitive generatePrimitive() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	protected int calculateDifference(BufferedImage original, BufferedImage current, IPrimitive primitive) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	protected void addToImage(BufferedImage image, IPrimitive primitive) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;PluginManagerIter.java&apos; to &apos;jmjrst.main/src/main/java/org.iMage.plugins&apos;&#x0D;&#x0A;- Original project: &apos;jmjrst.main&apos;&#x0D;&#x0A;- Destination element: &apos;jmjrst.main/src/main/java/org.iMage.plugins&apos;&#x0D;&#x0A;- Original element: &apos;PluginManagerIter.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;org.iMage.plugins" element1="/src\/main\/java&lt;{PluginManagerIter.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1498625309143" units="1" version="1.0"/>
+</session>

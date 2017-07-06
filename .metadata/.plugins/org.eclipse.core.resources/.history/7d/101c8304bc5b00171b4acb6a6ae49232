@@ -1,0 +1,83 @@
+package org.iMage.plugins;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Iterator;
+import java.util.List;
+import java.util.ServiceLoader;
+
+/**
+ * Knows all available plug-ins and is responsible for using the service loader
+ * API to detect them.
+ *
+ */
+public final class PluginManager {
+
+	/**
+	 * No constructor for utility class.
+	 */
+	PluginManager() {
+	}
+
+	/**
+	 * Return all available {@link JmjrstPlugin}s sorted accordingly to their
+	 * priority.
+	 * 
+	 * @return all available plug-ins sorted according to their priority in
+	 *         ascending order.
+	 */
+	public static List<JmjrstPlugin> getPlugins() {
+		ServiceLoader<JmjrstPlugin> serviceLoader =
+				ServiceLoader.load(JmjrstPlugin.class);
+				List<JmjrstPlugin> p = new ArrayList<>();
+				for (final JmjrstPlugin plugin : serviceLoader) {
+				p.add(plugin);
+				}
+				// Sortieren mit dem Comparator aus JmjrstPlugin
+				Collections.sort(p);
+				return p;
+	}
+	
+	public static Iterable iterator() {
+		ServiceLoader<JmjrstPlugin> serviceLoader = ServiceLoader.load(JmjrstPlugin.class); 
+		
+	    return serviceLoader;
+		
+	}
+	
+	
+	
+private ArrayList<JmjrstPlugin> data;
+	
+	public PluginManagerIter(ArrayList<JmjrstPlugin> pluglist) {
+		data = pluglist;
+	}
+
+	@Override
+	public Iterator<JmjrstPlugin> iterator() {
+		 Iterator<JmjrstPlugin> it = new Iterator<JmjrstPlugin>() {
+
+	            private int index = 0;
+	           
+	            @Override
+	            public boolean hasNext() {
+	                return index < data.size();
+	            }
+
+	            @Override
+	            public JmjrstPlugin next() {
+	                return data.get(index);
+	            }
+
+	            @Override
+	            public void remove() {
+	                throw new UnsupportedOperationException();
+	            }
+	        };
+	        return it;
+	    }
+
+}
+	
+	
+}

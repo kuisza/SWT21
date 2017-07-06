@@ -1,0 +1,67 @@
+package org.iMage.geometrify;
+
+import java.awt.Color;
+import java.awt.Point;
+
+public class NonAxisAllignedRectangle implements IPrimitive{
+	private BoundingBox boundingBox;
+	private Color color;
+	//	Alternative Implementierung:
+	//	private Polygon polygon;
+	protected Point a, b, c, d;
+	protected Triangle triangle1, triangle2;
+	
+	
+	/**
+	 * Creates a new circle from the given vertices.
+	 *
+	 * @param x the centre of the circle
+	 * @param height the radius of the circle
+	 */
+	public NonAxisAllignedRectangle(Point a, Point b, Point c) {
+		
+		this.a = a;
+		this.b = b;
+		this.c = c;
+		double distance = Math.abs(a.getY() - c.getY());
+		double Ypos = Math.min(a.getY(), c.getY()) + distance/2;
+		Point o = new Point( (int) b.getX(), (int) Ypos);
+		double Odistance = Math.abs(b.getY() - o.getY());
+		double YYPos = Ypos + Odistance;
+		this.d = new Point( (int) b.getX(), (int) YYPos);
+		
+		int lowX = Math.min(Math.min(a.x, b.x),Math.min(c.x, d.x));
+		int lowY = Math.min(Math.min(a.y, b.y),Math.min(c.y, d.y));
+		int bigX = Math.max(Math.max(a.x, b.x),Math.max(c.x, d.x));
+		int bigY = Math.max(Math.max(a.y, b.y),Math.max(c.y, d.y));
+		
+		Point upperLeft = new Point(lowX, lowY);
+		Point lowerRight = new Point(bigX, bigY);
+		
+		boundingBox = new BoundingBox(upperLeft, lowerRight);
+		triangle1= new Triangle(a,b,c);
+		triangle2= new Triangle(a,d,c);
+	}
+	
+	@Override
+	public BoundingBox getBoundingBox() {
+		return boundingBox;
+	}
+
+	@Override
+	public Color getColor() {
+		return color;
+	}
+
+	@Override
+	public boolean isInsidePrimitive(Point p) {
+		return triangle1.isInsidePrimitive(p) && triangle2.isInsidePrimitive(p);
+	}
+
+	@Override
+	public void setColor(Color c) {
+		color = c;
+		
+	}
+
+}
